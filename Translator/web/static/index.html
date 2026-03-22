@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Language Tutor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="app">
+
+    <!-- Nav -->
+    <nav class="page-nav">
+      <a href="index.html" class="active">💬 Phrases</a>
+      <a href="vocab.html">📖 Vocabulary</a>
+    </nav>
+
+    <!-- Header -->
+    <header>
+      <h1>🌍 Language Tutor</h1>
+      <div class="controls">
+        <input id="name-input" class="name-input" type="text" placeholder="Your name (optional)" maxlength="40" />
+        <select id="language">
+          <option>Spanish</option>
+          <option>French</option>
+          <option>German</option>
+          <option>Italian</option>
+          <option>Japanese</option>
+          <option>Mandarin</option>
+          <option>Portuguese</option>
+        </select>
+        <select id="level">
+          <option value="1">Level 1 – Beginner</option>
+          <option value="2">Level 2 – Elementary</option>
+          <option value="3">Level 3 – Intermediate</option>
+          <option value="4">Level 4 – Upper-Intermediate</option>
+          <option value="5">Level 5 – Advanced</option>
+        </select>
+        <button id="gen-all-btn" class="icon-btn" title="Generate all levels for this language">⚡ All Levels</button>
+        <button id="refresh-btn" class="icon-btn" title="Regenerate phrases for this level">↺</button>
+      </div>
+    </header>
+
+    <!-- Phrase card -->
+    <section class="card phrase-card">
+      <div id="phrase-loading" class="loading">
+        <div class="spinner"></div>
+        <p>Generating phrase…</p>
+      </div>
+
+      <div id="phrase-content" class="hidden">
+        <div class="phrase-row">
+          <p id="phrase-text" class="phrase"></p>
+          <button id="listen-btn" class="listen-btn" title="Listen to phrase">🔊</button>
+        </div>
+        <p id="translation-text" class="translation"></p>
+        <div id="meta" class="meta">
+          <span id="context-text"></span>
+          <span id="tips-text" class="tips"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Record button -->
+    <section class="record-section">
+      <button id="record-btn" class="record-btn" disabled>
+        <span class="btn-icon">🎤</span>
+        <span class="btn-label">Record</span>
+      </button>
+      <p id="record-status" class="record-status"></p>
+    </section>
+
+    <!-- Results card -->
+    <section id="results" class="card results-card hidden">
+      <div class="result-header">
+        <div class="score-block">
+          <span id="score-number" class="score-number">0</span>
+          <span class="score-denom">/10</span>
+        </div>
+        <div id="score-bar-wrap" class="score-bar-wrap">
+          <div id="score-bar" class="score-bar"></div>
+        </div>
+        <span id="accuracy-badge" class="badge">–</span>
+      </div>
+
+      <p class="result-label">You said</p>
+      <p id="transcription" class="transcription"></p>
+
+      <div class="feedback">
+        <p id="went-well"><span class="icon">✓</span> <span></span></p>
+        <p id="improvements"><span class="icon">→</span> <span></span></p>
+        <p id="encouragement" class="encouragement"></p>
+      </div>
+
+      <button id="next-btn" class="next-btn">Next Phrase →</button>
+    </section>
+
+    <!-- Error banner -->
+    <div id="error-banner" class="error-banner hidden"></div>
+
+    <!-- Session history -->
+    <section id="history-section" class="card history-card hidden">
+      <h2 class="history-title">Session History</h2>
+      <ul id="history-list" class="history-list"></ul>
+    </section>
+
+    <!-- Level phrase bank -->
+    <section id="level-phrases-section" class="card history-card hidden">
+      <h2 class="history-title">Level <span id="level-phrases-label">1</span> Phrases</h2>
+      <ul id="level-phrases-list" class="level-phrases-list"></ul>
+    </section>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

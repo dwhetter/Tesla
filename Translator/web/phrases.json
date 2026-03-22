@@ -1,0 +1,1888 @@
+{
+  "Spanish": {
+    "1": [
+      {
+        "phrase": "Hola, ¿cómo estás?",
+        "translation": "Hello, how are you?",
+        "context": "Basic greeting",
+        "tips": "Use this phrase to ask someone about their well-being."
+      },
+      {
+        "phrase": "Me llamo Juan",
+        "translation": "My name is John",
+        "context": "Name introduction",
+        "tips": "Introduce yourself with your first and last name."
+      },
+      {
+        "phrase": "Soy de España",
+        "translation": "I am from Spain",
+        "context": "Country origin",
+        "tips": "Say where you are from to establish a connection with others."
+      },
+      {
+        "phrase": "¿Dónde está...?",
+        "translation": "Where is...?",
+        "context": "Directions",
+        "tips": "Ask for directions to find your way around."
+      },
+      {
+        "phrase": "Un café, por favor.",
+        "translation": "A coffee, please.",
+        "context": "Ordering food and drinks",
+        "tips": "Use this phrase to order a simple drink."
+      },
+      {
+        "phrase": "Estoy hambriento/hambrosa",
+        "translation": "I am hungry/thirsty",
+        "context": "Hunger and thirst",
+        "tips": "Use this phrase to express your physical needs."
+      },
+      {
+        "phrase": "¿Cuánto cuesta?",
+        "translation": "How much does it cost?",
+        "context": "Shopping",
+        "tips": "Ask the price of an item before buying it."
+      },
+      {
+        "phrase": "Lo siento, no hablo español muy bien.",
+        "translation": "Sorry, I don't speak Spanish very well.",
+        "context": "Apologizing for language difficulties",
+        "tips": "Use this phrase to apologize if you struggle with the language."
+      },
+      {
+        "phrase": "Adiós, hasta luego.",
+        "translation": "Goodbye, see you later.",
+        "context": "Farewells",
+        "tips": "Use this phrase to say goodbye to someone."
+      },
+      {
+        "phrase": "¿Dónde está el baño?",
+        "translation": "Where is the restroom?",
+        "context": "Finding a restroom",
+        "tips": "Ask for directions to find the bathroom quickly."
+      }
+    ],
+    "2": [
+      {
+        "phrase": "¿Cómo estás?",
+        "translation": "How are you?",
+        "context": "Introducing yourself to someone",
+        "tips": "Use this phrase when greeting a friend or family member."
+      },
+      {
+        "phrase": "Me llamo Ñker",
+        "translation": "My name is Iker",
+        "context": "Sharing your name with others",
+        "tips": "Practice saying your own name in Spanish."
+      },
+      {
+        "phrase": "¿Dónde vives?",
+        "translation": "Where do you live?",
+        "context": "Asking about someone's location",
+        "tips": "Use this phrase to ask for directions or information about a place."
+      },
+      {
+        "phrase": "Soy estudiante",
+        "translation": "I'm a student",
+        "context": "Describing yourself as a student",
+        "tips": "Be prepared to answer questions about your school or interests."
+      },
+      {
+        "phrase": "¿Cuál es tu edad?",
+        "translation": "How old are you?",
+        "context": "Asking someone's age",
+        "tips": "Use this phrase when asking for someone's birthdate or birthday."
+      },
+      {
+        "phrase": "Me gusta Øscar",
+        "translation": "I like soccer",
+        "context": "Describing a hobby or interest",
+        "tips": "Practice using articles and verb conjugation to describe your favorite activities."
+      },
+      {
+        "phrase": "¿Cuál es tu comida favorita?",
+        "translation": "What's your favorite food?",
+        "context": "Asking about someone's food preferences",
+        "tips": "Use this phrase when trying new foods or asking for recommendations."
+      },
+      {
+        "phrase": "No entiendo Ñntico",
+        "translation": "I don't understand it",
+        "context": "Expressing difficulty with a concept",
+        "tips": "Practice using phrases to ask for help or clarification."
+      },
+      {
+        "phrase": "¿Puedes hablar inglés?",
+        "translation": "Can you speak English?",
+        "context": "Asking if someone speaks another language",
+        "tips": "Use this phrase when traveling or meeting new people."
+      },
+      {
+        "phrase": "Lo siento, no entiendo",
+        "translation": "Sorry, I don't understand",
+        "context": "Responding to a question or instruction",
+        "tips": "Practice using phrases to apologize and ask for clarification."
+      }
+    ],
+    "3": [
+      {
+        "phrase": "¿Cómo estás hoy?",
+        "translation": "How are you today?",
+        "context": "Greeting",
+        "tips": "Use this phrase to ask about someone's current state."
+      },
+      {
+        "phrase": "Me encanta la música de esa banda.",
+        "translation": "I love the music of that band.",
+        "context": "Hobbies",
+        "tips": "Practice using 'me' in sentences to express personal opinions."
+      },
+      {
+        "phrase": "¿Cuánto cuesta esto?",
+        "translation": "How much does it cost?",
+        "context": "Shopping",
+        "tips": "Learn to use numbers from 0-10 and basic counting phrases."
+      },
+      {
+        "phrase": "Mi amigo está estudiando en París.",
+        "translation": "My friend is studying in Paris.",
+        "context": "Travel",
+        "tips": "Use the present perfect tense for actions starting before a specific point in time."
+      },
+      {
+        "phrase": "La verdad es que no me gusta el té.",
+        "translation": "To be honest, I don't like tea.",
+        "context": "Honesty",
+        "tips": "Practice using 'la verdad' to introduce a negative statement."
+      },
+      {
+        "phrase": "¿Puedes hablar más despacio?",
+        "translation": "Can you speak more slowly?",
+        "context": "Politeness",
+        "tips": "Use this phrase to ask someone to repeat themselves or slow down."
+      },
+      {
+        "phrase": "Estoy cansado después de trabajar todo el día.",
+        "translation": "I'm tired after working all day.",
+        "context": "Emotions",
+        "tips": "Learn to use 'estoy' in sentences to express fatigue or exhaustion."
+      },
+      {
+        "phrase": "Mi hermano es muy bueno en el fútbol.",
+        "translation": "My brother is very good at soccer.",
+        "context": "Family",
+        "tips": "Practice using 'mi' to introduce family members."
+      },
+      {
+        "phrase": "¿Cuándo comienzan las clases?",
+        "translation": "When do the classes start?",
+        "context": "School",
+        "tips": "Learn to use 'cuándo' in questions about schedules or appointments."
+      },
+      {
+        "phrase": "Me duele la cabeza desde hace unos días.",
+        "translation": "I've had a headache for days.",
+        "context": "Health",
+        "tips": "Use the preterite tense for past physical ailments and 'hace' to express duration."
+      }
+    ],
+    "4": [
+      {
+        "phrase": "Estar de acuerdo con alguien en un asunto",
+        "translation": "To agree with someone on a matter",
+        "context": "Discussing an opinion",
+        "tips": "Use this phrase to show that you share the same view as someone else."
+      },
+      {
+        "phrase": "Tomar el pelo de alguien",
+        "translation": "To tease or joke with someone",
+        "context": "Socializing with friends",
+        "tips": "Be careful not to cross the line from playful teasing to hurtful joking."
+      },
+      {
+        "phrase": "Estar en la misma página que alguien",
+        "translation": "To be on the same page as someone",
+        "context": "Collaborating on a project",
+        "tips": "Use this phrase to convey that you have a shared understanding with someone."
+      },
+      {
+        "phrase": "Me duele un poco cuando...",
+        "translation": "It bothers me a little when...",
+        "context": "Expressing frustration or annoyance",
+        "tips": "Use the verb 'duele' to indicate mild discomfort."
+      },
+      {
+        "phrase": "Estar cansado de algo",
+        "translation": "To be tired of something",
+        "context": "Describing a feeling",
+        "tips": "Use this phrase to express that you have had enough of a situation or person."
+      },
+      {
+        "phrase": "Estoy pensando en llevar un regalo",
+        "translation": "I'm thinking of bringing a gift",
+        "context": "Inviting someone over",
+        "tips": "Use this phrase to show that you're planning to bring something for the occasion."
+      },
+      {
+        "phrase": "La vida es breve, no tengas miedo de probar nuevas cosas",
+        "translation": "Life is short, don't be afraid to try new things",
+        "context": "Motivational saying",
+        "tips": "Use this phrase to encourage someone to take risks and be adventurous."
+      },
+      {
+        "phrase": "Estoy un poco nervioso/a",
+        "translation": "I'm a little nervous",
+        "context": "Expressing anxiety or apprehension",
+        "tips": "Use the adverb 'un poco' to indicate mild nervousness."
+      },
+      {
+        "phrase": "Estar dispuesto a hacer algo por alguien",
+        "translation": "To be willing to do something for someone",
+        "context": "Offering help or support",
+        "tips": "Use this phrase to show that you're committed to helping someone in need."
+      },
+      {
+        "phrase": "No me gusta el silencio en la mesa",
+        "translation": "I don't like the silence at the table",
+        "context": "Commenting on a conversation",
+        "tips": "Use this phrase to express discomfort with awkward pauses or unspoken topics."
+      }
+    ],
+    "5": [
+      {
+        "phrase": "¿Cuál es su opinión sobre la actualidad política?",
+        "translation": "What is your opinion on current political issues?",
+        "context": "Discussing recent events",
+        "tips": "Use \"opinión\" for expressing a personal viewpoint."
+      },
+      {
+        "phrase": "Me gustaría saber si podría asistirme al congreso de Øtica del úmilo que se llevara a cabo en Madrid el próximo fin de semana.",
+        "translation": "I would like to know if I could attend the conference on ethics of practice that will take place in Madrid next weekend.",
+        "context": "Inquiring about an event",
+        "tips": "Use \"asistirme\" for expressing your intention to participate."
+      },
+      {
+        "phrase": "La cultura de nuestro pueblo es muy rica y diversa, con una gran variedad de tradiciones y festivales.",
+        "translation": "Our village culture is very rich and diverse, with a large variety of traditions and festivals.",
+        "context": "Describing a community",
+        "tips": "Use \"pueblo\" for referring to your hometown or village."
+      },
+      {
+        "phrase": "Me duele la cabeza y creo que estó puede ser un resfriado.",
+        "translation": "My head hurts, and I think it may be a cold.",
+        "context": "Describing physical symptoms",
+        "tips": "Use \"duele\" for expressing pain."
+      },
+      {
+        "phrase": "La ciudad es muy concurrida y se puede perder en sus calles empedradas.",
+        "translation": "The city is very crowded and you can get lost in its cobblestone streets.",
+        "context": "Describing a place",
+        "tips": "Use \"concurrido\" for expressing that a place is busy."
+      },
+      {
+        "phrase": "La historia de Óscar es muy triste, con una gran cantidad de muertes y desapariciones.",
+        "translation": "The history of Óscar is very sad, with a large number of deaths and disappearances.",
+        "context": "Describing a historical event",
+        "tips": "Use \"triste\" for expressing sadness."
+      },
+      {
+        "phrase": "Necesito ayuda para encontrar un trabajo que se adapte a mis habilidades y intereses.",
+        "translation": "I need help finding a job that suits my skills and interests.",
+        "context": "Describing career goals",
+        "tips": "Use \"necesito\" for expressing the need or requirement of something."
+      },
+      {
+        "phrase": "El clima en ética es muy cálido durante el verano, pero se puede sentir un hímolo fresco en la mañana.",
+        "translation": "The climate in Ótica is very hot during the summer, but it can feel a fresh breeze in the morning.",
+        "context": "Describing a physical environment",
+        "tips": "Use \"cálido\" for expressing warmth."
+      },
+      {
+        "phrase": "Me gustaría saber si puedo regresar al colegio y pedir una segunda oportunidad.",
+        "translation": "I would like to know if I can return to school and ask for a second chance.",
+        "context": "Inquiring about an opportunity",
+        "tips": "Use \"regresar\" for expressing the intention of going back."
+      }
+    ]
+  },
+  "French": {
+    "1": [
+      {
+        "phrase": "Bonjour, comment ça va?",
+        "translation": "Hello, how are you?",
+        "context": "Greeting",
+        "tips": "Use this phrase to ask someone about their day."
+      },
+      {
+        "phrase": "Merci beaucoup",
+        "translation": "Thank you very much",
+        "context": "Expression of gratitude",
+        "tips": "Use this phrase when someone does something nice for you."
+      },
+      {
+        "phrase": "Excusez-moi, où est...?",
+        "translation": "Excuse me, where is...",
+        "context": "Asking for directions",
+        "tips": "Fill in the blank with a place name, such as 'l'école' (school)."
+      },
+      {
+        "phrase": "Je m'appelle",
+        "translation": "My name is",
+        "context": "Introducing yourself",
+        "tips": "Use this phrase to introduce yourself to someone new."
+      },
+      {
+        "phrase": "S'il vous plaît",
+        "translation": "Please",
+        "context": "Polite request",
+        "tips": "Use this phrase when asking for something politely."
+      },
+      {
+        "phrase": "Pouvez-vous m'aider?",
+        "translation": "Can you help me?",
+        "context": "Asking for assistance",
+        "tips": "Use this phrase when someone is having trouble or needs help."
+      },
+      {
+        "phrase": "Je suis perdu(e)",
+        "translation": "I am lost",
+        "context": "Admitting to being lost",
+        "tips": "Use this phrase if you are unsure of where you are."
+      },
+      {
+        "phrase": "C'est très cher",
+        "translation": "It's very expensive",
+        "context": "Commenting on prices",
+        "tips": "Use this phrase when commenting on the cost of something."
+      },
+      {
+        "phrase": "Je voudrais une carafe d'eau, s'il vous plaît",
+        "translation": "I would like a glass of water, please",
+        "context": "Ordering food or drinks",
+        "tips": "Use this phrase to order a drink from a waiter or waitress."
+      },
+      {
+        "phrase": "Au revoir",
+        "translation": "Goodbye",
+        "context": "Farewell",
+        "tips": "Use this phrase when saying goodbye to someone."
+      }
+    ],
+    "2": [
+      {
+        "phrase": "Bonjour, comment allez-vous?",
+        "translation": "Hello, how are you?",
+        "context": "Introducing yourself to someone",
+        "tips": "Use formal greeting until told otherwise"
+      },
+      {
+        "phrase": "Je m'appelle Marie.",
+        "translation": "My name is Marie.",
+        "context": "Sharing your name with others",
+        "tips": "Use correct verb conjugation for introducing yourself"
+      },
+      {
+        "phrase": "Quel est votre nom?",
+        "translation": "What's your name?",
+        "context": "Asking someone's name",
+        "tips": "Note the use of question mark at the end"
+      },
+      {
+        "phrase": "Je vais bien, merci.",
+        "translation": "I'm fine, thank you.",
+        "context": "Responding to a greeting",
+        "tips": "Use polite phrase to show appreciation"
+      },
+      {
+        "phrase": "Comment ça va?",
+        "translation": "How are you?",
+        "context": "Checking in with someone",
+        "tips": "Note the use of question mark at the end and informal tone"
+      },
+      {
+        "phrase": "Je suis perdu(e)",
+        "translation": "I am lost.",
+        "context": "Asking for help or directions",
+        "tips": "Use correct verb conjugation for expressing a situation"
+      },
+      {
+        "phrase": "Pouvez-vous m'aider?",
+        "translation": "Can you help me?",
+        "context": "Asking someone for assistance",
+        "tips": "Note the use of formal phrase and question mark at the end"
+      },
+      {
+        "phrase": "Je voudrais un carnet de réduction.",
+        "translation": "I would like a discount coupon.",
+        "context": "Making a request or asking for something",
+        "tips": "Use polite phrase to make your request"
+      },
+      {
+        "phrase": "L'addition, s'il vous plaît.",
+        "translation": "The bill, please.",
+        "context": "Asking for the bill in a restaurant or cafe",
+        "tips": "Note the use of formal phrase and polite tone"
+      },
+      {
+        "phrase": "Excusez-moi, où est...?",
+        "translation": "Excuse me, where is...",
+        "context": "Asking for directions or location",
+        "tips": "Use correct verb conjugation and question mark at the end"
+      }
+    ],
+    "4": [
+      {
+        "phrase": "C\\u00e9tait une bonne id\\eacutee de faire du shopping le dimanche matin.",
+        "translation": "It was a good idea to go shopping on Sunday morning.",
+        "context": " commenting on someone's decision to shop on the weekend",
+        "tips": "Use \\u00e7est quoi (what, so what) after this phrase to ask for clarification."
+      },
+      {
+        "phrase": "J'ai toujours voulu essayer ce nouveau restaurant mais j'ai peur de le payer.",
+        "translation": "I've always wanted to try that new restaurant but I'm afraid of paying.",
+        "context": "expressing hesitation about trying a new place",
+        "tips": "Use \\u00e9tait (it was) after this phrase to talk about past experiences."
+      },
+      {
+        "phrase": "Il faut que tu commences à prendre soin de toi.",
+        "translation": "You need to start taking care of yourself.",
+        "context": "giving advice on self-care",
+        "tips": "Use l'essentiel (the essential) instead of \\u00e9tait to emphasize the importance."
+      },
+      {
+        "phrase": "C\\u00e9 qui est\\u00e9 la meilleure option pour nous?",
+        "translation": "What's the best option for us?",
+        "context": "asking for a suggestion",
+        "tips": "Use \\u00e0 quelle pointe (at what point) instead of \\u00e9tait to ask about timing."
+      },
+      {
+        "phrase": "J'ai vraiment malheureux de ne pas avoir pu venir.",
+        "translation": "I'm really sorry I couldn't come.",
+        "context": "apologizing for missing an event",
+        "tips": "Use \\u00e8tant donn\\u00e9 (being given) instead of je suis (I am) to sound more formal."
+      },
+      {
+        "phrase": "Tu n'es pas tr\\u00e8s de rire pour cette situation.",
+        "translation": "You're not laughing at this situation.",
+        "context": "telling someone they need to lighten up",
+        "tips": "Use \\u00e9tant donn\\u00e9 (being given) instead of tu es (you are) for more nuance."
+      },
+      {
+        "phrase": "Je n'ai pas envie de parler d'argent avec toi.",
+        "translation": "I don't want to talk about money with you.",
+        "context": "expressing discomfort with a conversation",
+        "tips": "Use \\u00e9tait (it was) after this phrase to talk about past experiences."
+      },
+      {
+        "phrase": "C'est dr\\u00f4lement compliqu\\eacute;.",
+        "translation": "It's very complicated.",
+        "context": "describing something as challenging",
+        "tips": "Use \\u00e9tant donn\\u00e9 (being given) instead of c'est (it is) to sound more formal."
+      },
+      {
+        "phrase": "Tu te souviens de ce qu'il s'est pass\\u00e9?",
+        "translation": "Do you remember what happened?",
+        "context": "asking someone to recall a past event",
+        "tips": "Use \\u00e9tait (it was) after this phrase to talk about past experiences."
+      },
+      {
+        "phrase": "J'ai vraiment honte de m'avoir comport\\u00e9 de cette mani\\ere.",
+        "translation": "I'm really ashamed of how I behaved.",
+        "context": "expressing regret for a mistake",
+        "tips": "Use \\u00e9tait (it was) after this phrase to talk about past experiences."
+      }
+    ],
+    "5": [
+      {
+        "phrase": "Je suis désolé(e), je ne comprends pas.",
+        "translation": "I apologize, I don't understand.",
+        "context": "Declining to respond to a question",
+        "tips": "Use 'je' or 'on' before 'ne comprends pas'. Practice responding to questions with this phrase."
+      },
+      {
+        "phrase": "Pouvez-vous me dire ce que vous avez fait hier soir ?",
+        "translation": "Can you tell me what you did last night?",
+        "context": "Asking about someone's evening plans",
+        "tips": "Use 'pouvez-vous' for polite questions and practice using the verb 'avoir' in the present perfect tense."
+      },
+      {
+        "phrase": "C'est vraiment dommage que vous n'ayez pas pu venir.",
+        "translation": "It's really disappointing that you couldn't come.",
+        "context": "Expressing disappointment at someone's absence",
+        "tips": "Use 'c'est vraiment' for emphasis and practice using the verb 'venir' in the present tense."
+      },
+      {
+        "phrase": "Je suis à la recherche d'un nouveau logement, pouvez-vous me recommander quelque chose ?",
+        "translation": "I'm looking for a new apartment, can you recommend something?",
+        "context": "Asking for advice on a personal issue",
+        "tips": "Use 'je suis' with the verb 'chercher' and practice using the phrase 'pouvez-vous' for polite questions."
+      },
+      {
+        "phrase": "L'article de presse sur la révolution est très intéressant, mais il y a des erreurs d'orthographe.",
+        "translation": "The news article on the revolution is very interesting, but there are spelling errors.",
+        "context": "Commenting on an article or document",
+        "tips": "Use 'c'est' with the verb 'être' to express agreement and practice using the phrase 'il y a des...' to describe flaws."
+      },
+      {
+        "phrase": "Je suis désuet(e) au monde du travail, pouvez-vous me donner quelques conseils ?",
+        "translation": "I'm out of touch with the job market, can you give me some advice?",
+        "context": "Asking for guidance on a professional issue",
+        "tips": "Use 'je suis' with the verb 'être' to express being out of touch and practice using the phrase 'pouvez-vous' for polite questions."
+      },
+      {
+        "phrase": "Ce projet est tellement passionnant, mais j'ai des inquiétudes sur son impact environnemental.",
+        "translation": "This project is so exciting, but I have concerns about its environmental impact.",
+        "context": "Expressing reservations or doubts",
+        "tips": "Use 'c'est' with the verb 'être' to express agreement and practice using the phrase 'j'ai des...' to describe concerns."
+      },
+      {
+        "phrase": "Pouvez-vous m'aider à rédiger cette lettre de motivation ?",
+        "translation": "Can you help me write this letter of motivation?",
+        "context": "Asking for assistance with a task",
+        "tips": "Use 'pouvez-vous' for polite questions and practice using the verb 'm'aider' in the present tense."
+      },
+      {
+        "phrase": "Je suis désolé(e) d'avoir manqué l'appel du match, je vais essayer de le regarder en replay.",
+        "translation": "I'm sorry I missed the game, I'll try to watch it again.",
+        "context": "Apologizing for missing an event or activity",
+        "tips": "Use 'je suis' with the verb 'être' to express apology and practice using the phrase 'je vais essayer' to describe a plan of action."
+      },
+      {
+        "phrase": "C'est vraiment dommage que vous n'ayez pas pu venir nous voir le week-end dernier.",
+        "translation": "It's really disappointing that you couldn't come visit us last weekend.",
+        "context": "Expressing disappointment at someone's absence",
+        "tips": "Use 'c'est vraiment' for emphasis and practice using the verb 'venir' in the present tense."
+      }
+    ],
+    "3": [
+      {
+        "phrase": "Je regrette de ne pas avoir su parler plus français quand j'étais enfant",
+        "translation": "I regret not having spoken more French when I was a child",
+        "context": "Regrets or past experiences",
+        "tips": "Use the imperfect tense and \"regrette\" for regret"
+      },
+      {
+        "phrase": "Le prix de cet article est 50 euros",
+        "translation": "The price of that article is 50 euros",
+        "context": "Shopping or prices",
+        "tips": "Use the present tense and \"est\" for to be + adjective"
+      },
+      {
+        "phrase": "Je voudrais une carafe d'eau s'il vous plaît",
+        "translation": "I would like a glass of water, please",
+        "context": "Asking for something",
+        "tips": "Use the subjunctive mood and \"voudrais\" for polite request"
+      },
+      {
+        "phrase": "J'ai oublié mon sac à dos chez moi",
+        "translation": "I forgot my backpack at home",
+        "context": "Lost or forgotten items",
+        "tips": "Use the present perfect tense and \"avais\" for forgot"
+      },
+      {
+        "phrase": "Cette réduction est disponible pour les articles de mode",
+        "translation": "This discount is available for clothing items",
+        "context": "Discounts or promotions",
+        "tips": "Use the present tense and \"est\" for to be + adjective"
+      },
+      {
+        "phrase": "Je suis perdu(e) dans la ville",
+        "translation": "I am lost in the city",
+        "context": "Lost or directions",
+        "tips": "Use the present tense and \"suis\" for to be + adverb"
+      },
+      {
+        "phrase": "Il faudrait que nous prenions un bus pour aller au centre-ville",
+        "translation": "It would be necessary that we take a bus to go to the city center",
+        "context": "Necessity or obligation",
+        "tips": "Use the conditional tense and \"faudrait\" for necessity"
+      },
+      {
+        "phrase": "Je n'ai pas compris ce que vous avez dit",
+        "translation": "I didn't understand what you said",
+        "context": "Difficulty understanding someone",
+        "tips": "Use the present perfect tense and \"n'ai pas compris\" for not understood"
+      },
+      {
+        "phrase": "C'est une merveilleuse journée pour faire du sport",
+        "translation": "It's a wonderful day to do sports",
+        "context": "Weather or activities",
+        "tips": "Use the present tense and \"c'est\" for to be + adjective"
+      }
+    ]
+  },
+  "German": {
+    "1": [
+      {
+        "phrase": "Hallo, wie geht es dir?",
+        "translation": "Hello, how are you?",
+        "context": "Greeting a friend or acquaintance",
+        "tips": "Use this phrase in everyday conversations to show interest in someone's day."
+      },
+      {
+        "phrase": "Danke für die Hilfe",
+        "translation": "Thank you for the help",
+        "context": "Expressing gratitude for assistance",
+        "tips": "This phrase is essential for showing appreciation when someone helps you."
+      },
+      {
+        "phrase": "Entschuldigung, wo ist...?",
+        "translation": "Excuse me, where is...",
+        "context": "Asking for directions",
+        "tips": "Use this phrase to ask for help finding a place or person."
+      },
+      {
+        "phrase": "Ich brauche ein Wasser",
+        "translation": "I need water",
+        "context": "Requesting something at a store or restaurant",
+        "tips": "This phrase is useful when you're thirsty or need a drink."
+      },
+      {
+        "phrase": "Wie viel kostet das?",
+        "translation": "How much does it cost?",
+        "context": "Asking about prices",
+        "tips": "Use this phrase to compare prices and make informed decisions."
+      },
+      {
+        "phrase": "Ich spreche ein bisschen Deutsch",
+        "translation": "I speak a little German",
+        "context": "Introducing yourself or your language skills",
+        "tips": "This phrase helps to break the ice and shows that you're making an effort to learn the language."
+      },
+      {
+        "phrase": "Sprechen Sie Englisch?",
+        "translation": "Do you speak English?",
+        "context": "Asking if someone speaks a foreign language",
+        "tips": "Use this phrase when you want to communicate with someone who doesn't speak German."
+      },
+      {
+        "phrase": "Die Rechnung, bitte",
+        "translation": "The bill, please",
+        "context": "Asking for the check in a restaurant",
+        "tips": "This phrase is useful when you're finished eating and need the check."
+      },
+      {
+        "phrase": "Es tut mir leid, ich verstehe nicht",
+        "translation": "I'm sorry, I don't understand",
+        "context": "Expressing confusion or not understanding something",
+        "tips": "Use this phrase when you're having trouble following a conversation or instructions."
+      },
+      {
+        "phrase": "Auf Wiedersehen",
+        "translation": "Goodbye",
+        "context": "Saying goodbye to someone",
+        "tips": "This phrase is perfect for ending a conversation or leaving a place."
+      }
+    ],
+    "2": [
+      {
+        "phrase": "Wie geht es Ihnen?",
+        "translation": "How are you?",
+        "context": "Introduce yourself",
+        "tips": "Use this in casual conversations with friends and family."
+      },
+      {
+        "phrase": "Ich heiè, ich bin 10 Jahre alt.",
+        "translation": "My name is, I am 10 years old.",
+        "context": "Talking about your age",
+        "tips": "Be prepared to answer questions about yourself."
+      },
+      {
+        "phrase": "Woher kommst du?",
+        "translation": "Where are you from?",
+        "context": "Asking about someone's origin",
+        "tips": "Use this in conversations with friends or classmates."
+      },
+      {
+        "phrase": "Ich liebe Schokolade.",
+        "translation": "I love chocolate.",
+        "context": "Talking about food preferences",
+        "tips": "Find out what others like or dislike when eating together."
+      },
+      {
+        "phrase": "Wie viel Uhr ist es?",
+        "translation": "What time is it?",
+        "context": "Asking about the current time",
+        "tips": "Use this in conversations during school hours or at home."
+      },
+      {
+        "phrase": "Ich brauche das Bad.",
+        "translation": "I need to go to the bathroom.",
+        "context": "Talking about personal needs",
+        "tips": "Don't be afraid to ask for help when needed."
+      },
+      {
+        "phrase": "Wie viel Uhr kommt der Bus?",
+        "translation": "What time does the bus come?",
+        "context": "Asking about schedules or timetables",
+        "tips": "Use this in conversations with friends or classmates about school routines."
+      },
+      {
+        "phrase": "Ich habe Hunger.",
+        "translation": "I'm hungry.",
+        "context": "Talking about physical needs",
+        "tips": "Offer to help someone find food if they seem hungry."
+      },
+      {
+        "phrase": "Wie viel Uhr geht die Schule aus?",
+        "translation": "What time does school end?",
+        "context": "Asking about schedules or timetables",
+        "tips": "Use this in conversations with friends or classmates about after-school plans."
+      },
+      {
+        "phrase": "Möchten Sie ein Getränk?",
+        "translation": "Would you like a drink?",
+        "context": "Offering refreshments to others",
+        "tips": "Use this when inviting someone to sit with you or join an activity."
+      }
+    ],
+    "3": [
+      {
+        "phrase": "Ich habe gestern Abend ein tolles Restaurant besucht.",
+        "translation": "I went to a great restaurant last night.",
+        "context": "Describing a positive experience",
+        "tips": "Use the present perfect tense to talk about past events."
+      },
+      {
+        "phrase": "Die Wettervorhersage sagt, dass es morgen regnet.",
+        "translation": "The weather forecast says it will rain tomorrow.",
+        "context": "Using modal verbs and describing future events",
+        "tips": "Be careful with modal verbs like 'sagt' (says) and use the correct form of the verb."
+      },
+      {
+        "phrase": "Ich bin gerade auf der Suche nach einem neuen Auto.",
+        "translation": "I am currently looking for a new car.",
+        "context": "Talking about goals or actions",
+        "tips": "Use the present continuous tense to talk about ongoing activities."
+      },
+      {
+        "phrase": "Die neue App, die ich heute ausprobieren wollte, ist leider nicht verfügbar.",
+        "translation": "The new app I wanted to try out today is unfortunately not available.",
+        "context": "Describing a problem or disappointment",
+        "tips": "Use the present perfect continuous tense to talk about ongoing actions that started in the past."
+      },
+      {
+        "phrase": "Ich denke, dass mein Freund die Party vergessen hat.",
+        "translation": "I think my friend forgot the party.",
+        "context": "Using conditional statements and making predictions",
+        "tips": "Be careful with conditional statements like 'denke' (think) and use the correct form of the verb."
+      },
+      {
+        "phrase": "Die Stadt ist sehr sauber und sicher.",
+        "translation": "The city is very clean and safe.",
+        "context": "Describing a positive quality or feature",
+        "tips": "Use adjectives to describe people, places, and things."
+      },
+      {
+        "phrase": "Ich muss morgen früh ins Büro gehen.",
+        "translation": "I have to go to the office early tomorrow.",
+        "context": "Talking about obligations or responsibilities",
+        "tips": "Use the present tense to talk about daily routines and habits."
+      },
+      {
+        "phrase": "Die Leute in der Gegend sprechen kein Englisch.",
+        "translation": "People in the area don't speak English.",
+        "context": "Describing a situation or feature of a place",
+        "tips": "Use phrases like 'in der Gegend' (in the area) to talk about places and regions."
+      },
+      {
+        "phrase": "Ich habe heute Abend ein Konzert besucht, das ich seit Jahren geschenkt bekommen wollte.",
+        "translation": "I went to a concert tonight that I had been wanting to see for years.",
+        "context": "Talking about long-held desires or goals",
+        "tips": "Use the present perfect tense to talk about past events that started in the past and have a connection to the present."
+      }
+    ],
+    "4": [
+      {
+        "phrase": "Das ist ein Zentrum der Welt",
+        "translation": "That's the center of the world",
+        "context": "expressing admiration or enthusiasm for a place",
+        "tips": "Use \"Zentrum\" as a verb meaning to be the center of, e.g. Das Museum ist das Zentrum der Stadt."
+      },
+      {
+        "phrase": "Er ist auf der Strecke",
+        "translation": "He's on the ball",
+        "context": "meaning someone is doing well or managing a situation effectively",
+        "tips": "Use \"auf der Strecke\" in sports or business contexts, e.g. Die Firma ist auf der Strecke, wenn es um Innovation geht."
+      },
+      {
+        "phrase": "Das ist nicht mein Ding",
+        "translation": "That's not my thing",
+        "context": "expressing disinterest or indifference to something",
+        "tips": "Use \"nicht mein Ding\" in casual conversations, e.g. Was machst du heute Abend?"
+      },
+      {
+        "phrase": "Er ist total überfordert",
+        "translation": "He's totally overwhelmed",
+        "context": "expressing that someone is extremely stressed or burdened",
+        "tips": "Use \"überfordert\" in formal situations, e.g. Ich bin heute Morgen sehr überfordert."
+      },
+      {
+        "phrase": "Das ist das Problem",
+        "translation": "That's the problem",
+        "context": "accepting responsibility for a situation or issue",
+        "tips": "Use \"das Problem\" in formal conversations, e.g. Das ist das Problem, das wir heute besprechen."
+      },
+      {
+        "phrase": "Er hat sich total aufgeführt",
+        "translation": "He's totally acted",
+        "context": "expressing that someone has been overly dramatic or performed for attention",
+        "tips": "Use \"sich aufgeführt\" in social contexts, e.g. Er hat sich heute Morgen total aufgeführt, weil es so heiß war."
+      },
+      {
+        "phrase": "Das ist nicht für jeden geeignet",
+        "translation": "That's not suitable for everyone",
+        "context": "expressing that something may not be appropriate or accessible to all people",
+        "tips": "Use \"nicht für jeden geeignet\" in formal conversations, e.g. Das Programm ist heute Abend nur für Erwachsene geeignet."
+      },
+      {
+        "phrase": "Er ist ein bisschen verändert",
+        "translation": "He's changed a bit",
+        "context": "expressing that someone has undergone some changes or growth",
+        "tips": "Use \"verändert\" in casual conversations, e.g. Er hat sich heute Morgen ein bisschen verändert."
+      },
+      {
+        "phrase": "Das ist mein Schatz",
+        "translation": "That's my treasure",
+        "context": "expressing love or affection for someone or something",
+        "tips": "Use \"Schatz\" as a term of endearment, e.g. Er ist mein Schatz, ich liebe ihn sehr."
+      }
+    ],
+    "5": []
+  },
+  "Italian": {
+    "2": [
+      {
+        "phrase": "Ciao, come stai?",
+        "translation": "Hello, how are you?",
+        "context": "Greeting",
+        "tips": "Use this phrase to greet someone, and the response will be a similar greeting."
+      },
+      {
+        "phrase": "Mi chiamo Èmano",
+        "translation": "My name is Emmanuele",
+        "context": "Self-introduction",
+        "tips": "Use your own name when introducing yourself."
+      },
+      {
+        "phrase": "Sono felice di conoscerti",
+        "translation": "Nice to meet you",
+        "context": "Meeting someone new",
+        "tips": "This phrase shows politeness and enthusiasm."
+      },
+      {
+        "phrase": "Come si chiama questo posto?",
+        "translation": "What is this place called?",
+        "context": "Asking for a location",
+        "tips": "Use the phrase when asking about a name, address, or location."
+      },
+      {
+        "phrase": "Quanto costa questo prodotto?",
+        "translation": "How much does this product cost?",
+        "context": "Shopping",
+        "tips": "Use the phrase to ask about prices."
+      },
+      {
+        "phrase": "Posso pagare con carta di credito?",
+        "translation": "Can I pay with credit card?",
+        "context": "Making a purchase",
+        "tips": "This phrase shows interest in paying with alternative methods."
+      },
+      {
+        "phrase": "Mi dispiace, non capisco",
+        "translation": "Sorry, I don't understand",
+        "context": "Asking for clarification",
+        "tips": "Use this phrase to ask someone to repeat themselves or explain something again."
+      },
+      {
+        "phrase": "Prego, mi aiuti?",
+        "translation": "Thank you, can you help me?",
+        "context": "Asking for assistance",
+        "tips": "This phrase shows appreciation and a willingness to learn."
+      },
+      {
+        "phrase": "Quando va a scuola?",
+        "translation": "When do you go to school?",
+        "context": "Asking about someone's daily routine",
+        "tips": "Use this phrase when asking about schedules or routines."
+      },
+      {
+        "phrase": "Sono stanco, vorrei andare a dormire",
+        "translation": "I'm tired, I want to sleep",
+        "context": "Expressing fatigue",
+        "tips": "This phrase shows that you need rest."
+      }
+    ],
+    "3": [
+      {
+        "phrase": "Spero che stia bene",
+        "translation": "I hope you're feeling well",
+        "context": "Asking about someone's health",
+        "tips": "Use 'sto bene' (I'm fine) in informal situations, but 'mi dispiace' (I'm sorry) when asking about someone's health in a more formal way."
+      },
+      {
+        "phrase": "Quanto costa questo?",
+        "translation": "How much does this cost?",
+        "context": "Asking the price of an item",
+        "tips": "Use 'quanto costa?' to ask for the price of something, and add 'che' (which) before the price if you want to know more about it."
+      },
+      {
+        "phrase": "Non parlo inglese",
+        "translation": "I don't speak English",
+        "context": "Introducing a language limitation",
+        "tips": "Use this phrase when introducing yourself and limiting your language skills, or when asking someone to translate for you."
+      },
+      {
+        "phrase": "Come si chiama?",
+        "translation": "What's your name?",
+        "context": "Asking someone's name",
+        "tips": "Use 'come si chiama?' (how are you called?) to ask someone's name in a polite way, especially when meeting new people."
+      },
+      {
+        "phrase": "Posso avere il menu, per favore?",
+        "translation": "Can I have the menu, please?",
+        "context": "Asking for the menu",
+        "tips": "Use 'posso avere il menu?' to ask for the menu in a polite way, especially when dining out or ordering food."
+      },
+      {
+        "phrase": "Sono stanco di questo cinema",
+        "translation": "I'm tired of this movie theater",
+        "context": "Expressing dissatisfaction with a place",
+        "tips": "Use 'sono stanco' (I am tired) to express frustration or boredom, but 'non mi piace' (I don't like it) when expressing dissatisfaction."
+      },
+      {
+        "phrase": "Posso pagare con carta di credito?",
+        "translation": "Can I pay with credit card?",
+        "context": "Asking if a place accepts credit cards",
+        "tips": "Use 'posso pagare con?' to ask if something is acceptable, and add the specific payment method you want to use."
+      },
+      {
+        "phrase": "Mi dispiace, non capisco",
+        "translation": "I'm sorry, I don't understand",
+        "context": "Asking for clarification or repeating yourself",
+        "tips": "Use 'mi dispiace' (I'm sorry) before saying something again when you realize someone didn't understand you."
+      },
+      {
+        "phrase": "Potrei avere la risetta, per favore?",
+        "translation": "Can I have the bill, please?",
+        "context": "Asking for the check",
+        "tips": "Use 'potrei avere' (can I have) before the specific item you want to ask for, and add 'la risetta' (the bill) in this case."
+      },
+      {
+        "phrase": "Come si fa a combinare gli ordini?",
+        "translation": "How do you combine orders?",
+        "context": "Asking for information about ordering procedures",
+        "tips": "Use 'come si fa?' (how do you?) to ask for instructions or explanations, and add the specific action or process you're curious about."
+      }
+    ],
+    "4": [
+      {
+        "phrase": "Stare alle correnti",
+        "translation": "To go with the flow",
+        "context": "to accept a situation without resistance",
+        "tips": "Use this phrase to describe someone who is adapting easily to changes or challenges."
+      },
+      {
+        "phrase": "Essere un po' stanco",
+        "translation": "A little tired",
+        "context": "physical or mental exhaustion",
+        "tips": "This phrase is used to express mild fatigue, often used in the morning after a late night or a busy day."
+      },
+      {
+        "phrase": "Prendersi cura di qualcuno",
+        "translation": "To take care of someone",
+        "context": "to help and look after another person",
+        "tips": "Use this phrase to describe someone who is actively supporting and looking out for a friend, family member, or loved one."
+      },
+      {
+        "phrase": "Fare il giro del mondo",
+        "translation": "To travel around the world",
+        "context": "to visit many places",
+        "tips": "This phrase is used to express a desire or intention to explore different countries and cultures."
+      },
+      {
+        "phrase": "Sudar sulla penna",
+        "translation": "To cry over spilt milk",
+        "context": "don't waste time on something that's already happened",
+        "tips": "Use this phrase to advise someone not to dwell on past mistakes or problems."
+      },
+      {
+        "phrase": "Essere alla fine del filo",
+        "translation": "To be at the end of one's rope",
+        "context": "to feel extremely stressed or exhausted",
+        "tips": "This phrase is used to describe someone who feels overwhelmed and doesn't know how to cope."
+      },
+      {
+        "phrase": "Fare una brutta giornata",
+        "translation": "To have a bad day",
+        "context": "to experience unpleasant events",
+        "tips": "Use this phrase to describe someone's negative experiences or mood."
+      },
+      {
+        "phrase": "Sarcasticizzare",
+        "translation": "To sarcastically comment on something",
+        "context": "to mock or criticize in a mocking way",
+        "tips": "This phrase is used to describe someone who is making a witty comment by being ironic or mocking."
+      },
+      {
+        "phrase": "Essere sulla stessa lunghezza",
+        "translation": "To be on the same wavelength as someone",
+        "context": "to share similar thoughts and feelings",
+        "tips": "Use this phrase to describe a strong connection between two people who have similar interests, opinions, or emotions."
+      },
+      {
+        "phrase": "Fare qualcosa per te stesso",
+        "translation": "To do something for yourself",
+        "context": "to prioritize your own needs and desires",
+        "tips": "This phrase is used to encourage someone to focus on their own well-being and self-care."
+      }
+    ],
+    "5": [
+      {
+        "phrase": "In quanto ho terminato gli studi universitari, sono stato coinvolto in un progetto di ricerca su cui lavoro attualmente.",
+        "translation": "Since I finished my university studies, I have been involved in a research project on which I am working currently.",
+        "context": " Discussing work experience",
+        "tips": "Use 'in quanto' to connect two ideas."
+      },
+      {
+        "phrase": "Il mio obiettivo è diventare un dirigente di una società internazionale.",
+        "translation": "My goal is to become a manager of an international company.",
+        "context": "Discussing career goals",
+        "tips": "Use the correct verb tense for your goal."
+      },
+      {
+        "phrase": "Ho bisogno di un prestito per pagare le tasse.",
+        "translation": "I need a loan to pay my taxes.",
+        "context": "Discussing financial needs",
+        "tips": "Use 'bisogno' to mean 'need'."
+      },
+      {
+        "phrase": "La mia famiglia è originaria del Nord Italia.",
+        "translation": "My family is from Northern Italy.",
+        "context": "Discussing personal background",
+        "tips": "Use the correct article for your noun."
+      },
+      {
+        "phrase": "Non sono d'accordo con la politica del governo.",
+        "translation": "I do not agree with the government's policy.",
+        "context": "Expressing disagreement",
+        "tips": "Use 'non sono' to mean 'do not'."
+      },
+      {
+        "phrase": "Sono stato invitato a una conferenza su un tema recente.",
+        "translation": "I have been invited to a conference on a recent topic.",
+        "context": "Discussing invitations",
+        "tips": "Use the correct verb tense for your action."
+      },
+      {
+        "phrase": "Il mio amico è molto interessato al calcio.",
+        "translation": "My friend is very interested in soccer.",
+        "context": "Discussing hobbies",
+        "tips": "Use 'molt' to mean 'very'."
+      },
+      {
+        "phrase": "La mia sorella lavora come insegnante di lingue.",
+        "translation": "My sister works as an English teacher.",
+        "context": "Discussing family members",
+        "tips": "Use the correct noun for your profession."
+      },
+      {
+        "phrase": "Non posso permettermi di acquistare quel tipo di automobile.",
+        "translation": "I cannot afford to buy that type of car.",
+        "context": "Discussing financial limitations",
+        "tips": "Use 'non posso' to mean 'cannot'."
+      },
+      {
+        "phrase": "Il mio padre è un medico, quindi ho sempre amato la scienza.",
+        "translation": "My father is a doctor, so I have always loved science.",
+        "context": "Discussing family background",
+        "tips": "Use 'sì' or 'no' to connect two ideas."
+      }
+    ],
+    "1": [
+      {
+        "phrase": "Ciao!",
+        "translation": "Hello!",
+        "context": "Basic greeting",
+        "tips": "Use this phrase to greet someone during the day or in casual settings."
+      },
+      {
+        "phrase": "Come stai?",
+        "translation": "How are you?",
+        "context": "Asking about someone's well-being",
+        "tips": "Listen for the response and try to use the correct answer (e.g. 'Ben', 'Ciao' for good/hello)."
+      },
+      {
+        "phrase": "Mi chiamo",
+        "translation": "My name is",
+        "context": "Introducing yourself",
+        "tips": "Use this phrase to introduce yourself, then provide your full name."
+      },
+      {
+        "phrase": "Sono qui per",
+        "translation": "I am here for",
+        "context": "Explaining your purpose",
+        "tips": "Use this phrase to explain why you are in a certain place or situation (e.g. 'Il mio lavoro' - I work)."
+      },
+      {
+        "phrase": "Per favore",
+        "translation": "Please",
+        "context": "Showing politeness",
+        "tips": "Use this phrase when asking for something or showing respect."
+      },
+      {
+        "phrase": "Grazie",
+        "translation": "Thank you",
+        "context": "Expressing gratitude",
+        "tips": "Use this phrase to show appreciation for help or a service."
+      },
+      {
+        "phrase": "Scusa",
+        "translation": "Excuse me",
+        "context": "Apologizing or getting attention",
+        "tips": "Use this phrase to apologize or get someone's attention (e.g. in a crowded place)."
+      },
+      {
+        "phrase": "Quanto costa?",
+        "translation": "How much does it cost?",
+        "context": "Asking about prices",
+        "tips": "Use this phrase when shopping or trying to calculate the cost of something."
+      },
+      {
+        "phrase": "Dov'è il bagno?",
+        "translation": "Where is the bathroom?",
+        "context": "Asking for directions",
+        "tips": "Use this phrase when looking for a restroom, especially in unfamiliar places."
+      },
+      {
+        "phrase": "Posso avere un cartellino, per favore?",
+        "translation": "Can I have a brochure, please?",
+        "context": "Asking for information or materials",
+        "tips": "Use this phrase when asking for literature or promotional materials (e.g. at an event or tourist attraction)."
+      }
+    ]
+  },
+  "Japanese": {
+    "2": [
+      {
+        "phrase": "Konnichiwa, ogenki desu ka?",
+        "translation": "Hello, how are you?",
+        "context": "Greeting a friend or acquaintance",
+        "tips": "Use this phrase in the morning or afternoon to ask about someone's well-being"
+      },
+      {
+        "phrase": "Arigatou gozaimasu",
+        "translation": "Thank you very much",
+        "context": "Expressing gratitude",
+        "tips": "This phrase is used when showing appreciation, especially in formal situations"
+      },
+      {
+        "phrase": "Sumimasen, o-kaerinasai desu ka?",
+        "translation": "Excuse me, may I use your restroom?",
+        "context": "Asking permission for something",
+        "tips": "Use this phrase when you need to ask someone if they can let you use their restroom"
+      },
+      {
+        "phrase": "Muzukashii desu ne",
+        "translation": "It's difficult",
+        "context": "Describing a challenge",
+        "tips": "This phrase is used when describing something that is hard or frustrating"
+      },
+      {
+        "phrase": "Oyasumi nasai",
+        "translation": "Goodnight, goodbye",
+        "context": "Bidding farewell at the end of the day",
+        "tips": "Use this phrase in the evening to say goodnight to someone"
+      },
+      {
+        "phrase": "Doitsukai shimasu",
+        "translation": "I'm going to...",
+        "context": "Describing plans or intentions",
+        "tips": "This phrase is used when you want to tell someone where you're going or what you're planning to do"
+      },
+      {
+        "phrase": "Sore wa nan desu ka?",
+        "translation": "What's that?",
+        "context": "Asking about something unfamiliar",
+        "tips": "Use this phrase when you see something new and don't understand it"
+      },
+      {
+        "phrase": "O-koeru mono arimasu ka?",
+        "translation": "Do you have...?",
+        "context": "Asking if someone has something",
+        "tips": "This phrase is used when you want to know if someone has something, like a book or a phone"
+      },
+      {
+        "phrase": "Mada hanasemasen",
+        "translation": "I don't understand",
+        "context": "Expressing confusion",
+        "tips": "Use this phrase when you're not sure what someone means or are having trouble understanding the conversation"
+      }
+    ],
+    "1": [
+      {
+        "phrase": "Konnichiwa",
+        "translation": "Hello",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "O genki desu ka?",
+        "translation": "How are you?",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Gomen nasai",
+        "translation": "Sorry",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Arigatou gozaimasu",
+        "translation": "Thank you",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Sumimasen",
+        "translation": "Excuse me",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Watashi wa nan desu ka?",
+        "translation": "What am I?",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Mata ne",
+        "translation": "See you later",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Doitsuka na yo",
+        "translation": "I'm sorry",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Ohayou gozaimasu",
+        "translation": "Good morning",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Muzukashii desu",
+        "translation": "It's hard",
+        "context": "",
+        "tips": ""
+      }
+    ],
+    "3": [
+      {
+        "phrase": "I want to try ramen in the city.",
+        "translation": "論はすがに一京です 北京",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Can you recommend a good hotel?",
+        "translation": "家中 会的る尿んいます",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "読だ, I'm so tired.",
+        "translation": "郿￲プだ, なす今ん、",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "How much is the bill?",
+        "translation": "歠ん柀るいます",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "I'd like to make a reservation.",
+        "translation": "今室 細んなき夡",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "人溜。 I'm looking for a doctor.",
+        "translation": "匟新。 今䵨ん合寺",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Can you help me with my Japanese?",
+        "translation": "家中 なく読ます",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "The hotel room is small.",
+        "translation": "家ん合「ゐ此",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "I'll be back tomorrow.",
+        "translation": "今なは日す。",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "The food is delicious!",
+        "translation": "医资昡ぎゆん、",
+        "context": "",
+        "tips": ""
+      }
+    ],
+    "4": [
+      {
+        "phrase": "設食欢问",
+        "translation": "I'm so glad you could make it.",
+        "context": "expressing relief or happiness that someone has arrived at a destination",
+        "tips": "Use this phrase to convey your positive emotions when someone arrives unexpectedly"
+      },
+      {
+        "phrase": "张三本国",
+        "translation": "I'm a little tired today.",
+        "context": "exchanging information about physical or mental fatigue",
+        "tips": "This phrase is used to express mild fatigue, use it instead of 喜欢"
+      },
+      {
+        "phrase": "你娺の的本",
+        "translation": "That's a big deal for me.",
+        "context": "expressing enthusiasm or importance about something",
+        "tips": "Use this phrase to convey that you're very interested in something"
+      },
+      {
+        "phrase": "欢强名の今が",
+        "translation": "I'm not sure what my name is.",
+        "context": "asking for information about one's identity or name",
+        "tips": "This phrase is used when you forget your own name, try to remember it first"
+      },
+      {
+        "phrase": "月ををです",
+        "translation": "I'm going out with friends.",
+        "context": "inviting someone to join an activity",
+        "tips": "Use this phrase to invite someone to social events"
+      },
+      {
+        "phrase": "和丈の欢强名",
+        "translation": "I've never seen anyone like that before.",
+        "context": "expressing surprise or astonishment at something",
+        "tips": "Use this phrase to convey your surprise when you meet someone new"
+      },
+      {
+        "phrase": "本をタシの今が",
+        "translation": "What's the address?",
+        "context": "asking for information about a location",
+        "tips": "This phrase is used to ask for directions or locations, try using it in various situations"
+      },
+      {
+        "phrase": "を機名の今が",
+        "translation": "Can I have your name?",
+        "context": "asking someone's identity information",
+        "tips": "Use this phrase to ask for a person's contact information"
+      },
+      {
+        "phrase": "本を昨欢名の今が",
+        "translation": "Where is your workplace?",
+        "context": "asking someone about their job or place of work",
+        "tips": "This phrase is used to ask for information about a person's occupation"
+      }
+    ],
+    "5": [
+      {
+        "phrase": ", desu ka?",
+        "translation": "are you doing?",
+        "context": "formal question about someone's daily activities",
+        "tips": "Use this phrase to ask a friend or colleague about their day."
+      },
+      {
+        "phrase": "",
+        "translation": "I'm not sure.",
+        "context": "expressing uncertainty in a formal setting",
+        "tips": "Practice using this phrase to show that you're unsure about something."
+      },
+      {
+        "phrase": "kore wa nan desu ka?",
+        "translation": "what's the nature of this?",
+        "context": "asking for information or explanation on a topic",
+        "tips": "Use this phrase when you want more details about someone's thoughts or ideas."
+      },
+      {
+        "phrase": "",
+        "translation": "I'm tired.",
+        "context": "expressing physical exhaustion in formal language",
+        "tips": "Practice using this phrase to describe your own fatigue."
+      },
+      {
+        "phrase": ", oshieru nai desu.",
+        "translation": "it's not teachable.",
+        "context": "expressing the limits of knowledge or ability",
+        "tips": "Use this phrase when you're acknowledging that something is beyond your expertise."
+      },
+      {
+        "phrase": ", mō shindan o tsukuru to iu mono ja arimasen ka?",
+        "translation": "is it not a matter of opinion?",
+        "context": "expressing skepticism about a subjective claim",
+        "tips": "Practice using this phrase to question someone's assertion."
+      },
+      {
+        "phrase": "",
+        "translation": "my apologies.",
+        "context": "expressing regret in formal language",
+        "tips": "Use this phrase when you're acknowledging a mistake or error."
+      },
+      {
+        "phrase": ", gakkō ni ikimasu ka?",
+        "translation": "are you going to school?",
+        "context": "asking about someone's plans for education or training",
+        "tips": "Practice using this phrase to ask a friend or colleague about their educational goals."
+      },
+      {
+        "phrase": "",
+        "translation": "I'm in the mood for something.",
+        "context": "expressing one's desire or preference in formal language",
+        "tips": "Use this phrase when you're expressing your personal taste or inclination."
+      }
+    ]
+  },
+  "Mandarin": {
+    "5": [
+      {
+        "phrase": "张一欢趀。",
+        "translation": "You are welcome.",
+        "context": "Responding to a thank you",
+        "tips": "Use 都新的評公信欢趀。"
+      },
+      {
+        "phrase": "我姐合用羃一为",
+        "translation": "I am looking for a job.",
+        "context": "Describing career goals or searching for work",
+        "tips": "公去一为这送新合用羃。"
+      },
+      {
+        "phrase": "服务一为",
+        "translation": "我张我务一为",
+        "context": "Discussing relationships with family members",
+        "tips": "豿公件的以医。"
+      },
+      {
+        "phrase": "去糙合用羃内我",
+        "translation": "我务一哑产件的合用羃。",
+        "context": "Discussing work experience and skills",
+        "tips": "公去一为欢内我合用羃。"
+      },
+      {
+        "phrase": "旐器合用羃",
+        "translation": "我务一哑产和这送合用羃。",
+        "context": "Describing job qualifications or education",
+        "tips": "公去一为欢和这送合用羃。"
+      },
+      {
+        "phrase": "我务合用羃吅皋",
+        "translation": "我务一合用羃吅皋和去糙合用羃。",
+        "context": "Describing job preferences or skills",
+        "tips": "公去一为欢和去糙合用羃。"
+      },
+      {
+        "phrase": "旐器合用羃我",
+        "translation": "我务一合用羃我和去糙合用羃。",
+        "context": "Describing job satisfaction or dissatisfaction",
+        "tips": "公去一为欢我和去糙合用羃。"
+      },
+      {
+        "phrase": "旐器合用羃手机",
+        "translation": "我务一合用羃手机和去糙合用羃。",
+        "context": "Discussing career goals or work life balance",
+        "tips": "公去一为欢手机和去糙合用羃。"
+      },
+      {
+        "phrase": "我务一合用羃和张皋",
+        "translation": "我务一合用羃和张皋和去糙合用羃。",
+        "context": "Discussing job satisfaction or work-life balance with others",
+        "tips": "公去一为欢和张皋和去糙合用羃。"
+      }
+    ],
+    "2": [
+      {
+        "phrase": "nǐ hǎo",
+        "translation": "hello",
+        "context": "introduction",
+        "tips": "use when greeting someone"
+      },
+      {
+        "phrase": "zhè ge xiàn zhī huì kǒu shì shén me",
+        "translation": "what is this book about?",
+        "context": "asking about a book",
+        "tips": "use to ask questions about something you don't know"
+      },
+      {
+        "phrase": "wǒ jiào yī wén",
+        "translation": "my name is A",
+        "context": "introducing yourself",
+        "tips": "use when introducing yourself"
+      },
+      {
+        "phrase": "nǐ miàn fa",
+        "translation": "what do you mean?",
+        "context": "asking for clarification",
+        "tips": "use to ask someone to explain something again"
+      },
+      {
+        "phrase": "wǒ xǐ huān kàn shí jiè",
+        "translation": "I like watching movies",
+        "context": "hobbies and interests",
+        "tips": "use when talking about your favorite things"
+      },
+      {
+        "phrase": "nǐ xiǎng qù nǎ lǐ le?",
+        "translation": "where are you going?",
+        "context": "asking about someone's plans",
+        "tips": "use to ask where someone is going"
+      },
+      {
+        "phrase": "wǒ kuài lè",
+        "translation": "I'm happy",
+        "context": "expressing happiness",
+        "tips": "use when feeling joyful or content"
+      },
+      {
+        "phrase": "nǐ yào gěi wǒ mǎ shí tiáo ma?",
+        "translation": "do you want to give me money?",
+        "context": "asking for help or money",
+        "tips": "use when asking someone for help or money"
+      },
+      {
+        "phrase": "wǒ jiù yào zhù xiàn le",
+        "translation": "I just need some time",
+        "context": "need space or time alone",
+        "tips": "use when you need some time by yourself"
+      },
+      {
+        "phrase": "xiè xiè nǐ de bù pài",
+        "translation": "thank you very much for your help",
+        "context": "expressing gratitude",
+        "tips": "use when expressing thanks to someone"
+      }
+    ],
+    "3": [],
+    "1": [],
+    "4": []
+  },
+  "Portuguese": {
+    "1": [
+      {
+        "phrase": "Olá!, como estã?",
+        "translation": "Hello! How are you?",
+        "context": "Greeting",
+        "tips": "Use this phrase to ask about someone's well-being."
+      },
+      {
+        "phrase": "Eu sou (seu nome)",
+        "translation": "I am (your name)",
+        "context": "Self-introduction",
+        "tips": "Say your own name after the verb 'eu sou'."
+      },
+      {
+        "phrase": "Onde fica...?",
+        "translation": "Where is...?",
+        "context": "Asking for directions",
+        "tips": "Use this phrase to ask for directions to a place."
+      },
+      {
+        "phrase": "Quanto custa?",
+        "translation": "How much does it cost?",
+        "context": "Asking prices",
+        "tips": "Ask the price of something you want to buy."
+      },
+      {
+        "phrase": "Agora estou com fome",
+        "translation": "I am hungry now",
+        "context": "Describing hunger",
+        "tips": "Use this phrase when you feel hungry and need food."
+      },
+      {
+        "phrase": "Bom dia!",
+        "translation": "Good morning!",
+        "context": "Greetings",
+        "tips": "Use this phrase in the morning to say hello."
+      },
+      {
+        "phrase": "Meu nome é (seu nome)",
+        "translation": "My name is (your name)",
+        "context": "Introducing yourself",
+        "tips": "Say your own name after the verb 'meu nome'."
+      },
+      {
+        "phrase": "Preciso ir ao banheiro",
+        "translation": "I need to go to the bathroom",
+        "context": "Describing a physical need",
+        "tips": "Use this phrase when you really need to use the restroom."
+      },
+      {
+        "phrase": "Gostaria de um café, por favor",
+        "translation": "I would like a coffee, please",
+        "context": "Ordering food and drinks",
+        "tips": "Use polite language when ordering something."
+      },
+      {
+        "phrase": "Desculpe, onde fica...?",
+        "translation": "Excuse me, where is...?",
+        "context": "Asking for directions with apologies",
+        "tips": "Apologize while asking for directions."
+      }
+    ],
+    "2": [
+      {
+        "phrase": "Onde você mora?",
+        "translation": "Where do you live?",
+        "context": "Asking about someone's residence",
+        "tips": "Use this phrase to ask where someone lives, especially if you're meeting for the first time."
+      },
+      {
+        "phrase": "Meu nome é João",
+        "translation": "My name is Joáo",
+        "context": "Introducing yourself",
+        "tips": "This is a basic phrase to introduce yourself in Portuguese."
+      },
+      {
+        "phrase": "O que você estuda?",
+        "translation": "What are you studying?",
+        "context": "Asking about someone's studies or work",
+        "tips": "Use this phrase to ask what subject someone is studying or working on."
+      },
+      {
+        "phrase": "Eu gosto de comer sushi",
+        "translation": "I like eating sushi",
+        "context": "Talking about food preferences",
+        "tips": "This phrase can be used to express a liking for a particular type of cuisine."
+      },
+      {
+        "phrase": "Você tem gosto por esportes?",
+        "translation": "Do you like sports?",
+        "context": "Asking if someone likes sports",
+        "tips": "Use this phrase to ask if someone enjoys participating in sports or watching games."
+      },
+      {
+        "phrase": "Eu tenho um cachorro",
+        "translation": "I have a dog",
+        "context": "Talking about pets",
+        "tips": "This phrase can be used to introduce yourself and mention having a pet."
+      },
+      {
+        "phrase": "Quando é o seu aniversário?",
+        "translation": "When is your birthday?",
+        "context": "Asking about someone's birthdate",
+        "tips": "Use this phrase to ask when someone's birthday is, especially if you're planning a party or gift."
+      },
+      {
+        "phrase": "Eu estou cansado(a)",
+        "translation": "I am tired (male/female)",
+        "context": "Expressing fatigue",
+        "tips": "This phrase can be used to express feeling exhausted or lacking energy."
+      },
+      {
+        "phrase": "Você vai ao colégio?",
+        "translation": "Are you in school?",
+        "context": "Asking if someone is in school",
+        "tips": "Use this phrase to ask if someone attends classes regularly."
+      },
+      {
+        "phrase": "Eu amo o clima aqui",
+        "translation": "I love the climate here",
+        "context": "Expressing affection for a place",
+        "tips": "This phrase can be used to express enthusiasm for a particular location or region."
+      }
+    ],
+    "3": [
+      {
+        "phrase": "Sinto muito que você tenha perdido o ônibus.",
+        "translation": "I'm sorry you missed the bus.",
+        "context": "apologizing for something",
+        "tips": "Use 'sinto muito' (I'm so sorry) to express deep regret."
+      },
+      {
+        "phrase": "Você gosta de música?",
+        "translation": "Do you like music?",
+        "context": "greeting and conversation starter",
+        "tips": "Use this phrase to start a conversation about hobbies or interests."
+      },
+      {
+        "phrase": "Espero que você esteja bem.",
+        "translation": "I hope you're feeling well.",
+        "context": "wishing someone well",
+        "tips": "Use 'espero que' (I hope) to express good wishes."
+      },
+      {
+        "phrase": "Quantos dias você tem livre?",
+        "translation": "How many days do you have free?",
+        "context": "scheduling and plans",
+        "tips": "Use this phrase to ask about someone's availability or schedule."
+      },
+      {
+        "phrase": "Eu estou cansado hoje.",
+        "translation": "I'm feeling tired today.",
+        "context": "describing physical or emotional state",
+        "tips": "Use 'estou' (I am) to express your current state of being."
+      },
+      {
+        "phrase": "A conta foi de R$ 50,00.",
+        "translation": "The bill was $50.00.",
+        "context": "ordering food or paying for something",
+        "tips": "Use numbers and decimal points correctly when giving prices or amounts."
+      },
+      {
+        "phrase": "Você pode me ajudar a encontrar um restaurante?",
+        "translation": "Can you help me find a restaurant?",
+        "context": "asking for directions or assistance",
+        "tips": "Use 'pode' (can) to ask for help or permission."
+      },
+      {
+        "phrase": "A casa é muito quente/a fria.",
+        "translation": "The house is too hot/cold.",
+        "context": "complaining about the weather or temperature",
+        "tips": "Use 'muito' (very) to intensify your statement."
+      },
+      {
+        "phrase": "Eu estou procurando um apartamento.",
+        "translation": "I'm looking for an apartment.",
+        "context": "describing a goal or objective",
+        "tips": "Use 'procurar' (to look for) to express your intention to find something."
+      },
+      {
+        "phrase": "Você tem tempo para se jantar?",
+        "translation": "Do you have time to eat dinner?",
+        "context": "asking about someone's schedule or availability",
+        "tips": "Use 'se' (if) to ask a question about someone's schedule or preferences."
+      }
+    ],
+    "5": [
+      {
+        "phrase": "Disculpe-me, mas posso interromper?",
+        "translation": "Excuse me, but may I interrupt?",
+        "context": "Disagreeing with someone",
+        "tips": "Use 'mas' to indicate a strong interruption."
+      },
+      {
+        "phrase": "Acho que preciso ajustar minha rotina.",
+        "translation": "I think I need to adjust my routine.",
+        "context": "Discussing personal schedules or habits",
+        "tips": "Use 'acho' for a more casual tone."
+      },
+      {
+        "phrase": "Você está ciente de que...",
+        "translation": "Are you aware of the fact that...",
+        "context": "Expressing surprise or making an observation",
+        "tips": "Use 'está ciente' for a formal tone."
+      },
+      {
+        "phrase": "Eu sou muito impressionado com o seu trabalho.",
+        "translation": "I'm very impressed with your work.",
+        "context": "Expressing admiration",
+        "tips": "Use 'sou' instead of 'estou' for a more formal tone."
+      },
+      {
+        "phrase": "O que você acha da nova política?",
+        "translation": "What do you think about the new policy?",
+        "context": "Discussing current events or government policies",
+        "tips": "Use 'o que você acha' for a neutral and polite inquiry."
+      },
+      {
+        "phrase": "Minha irmã está estudando para um exame de vestibular.",
+        "translation": "My sister is studying for an entrance exam.",
+        "context": "Describing family members or personal relationships",
+        "tips": "Use 'está estudando' instead of 'estuda' to indicate a specific goal."
+      },
+      {
+        "phrase": "Essa é uma ótima oportunidade para nós dois.",
+        "translation": "This is a great opportunity for both of us.",
+        "context": "Discussing mutual benefits or advantages",
+        "tips": "Use 'nós dois' to emphasize the shared benefit."
+      },
+      {
+        "phrase": "Você acha que o preço da casa está razoável?",
+        "translation": "Do you think the price of the house is reasonable?",
+        "context": "Expressing skepticism or questioning",
+        "tips": "Use 'acha' for a neutral and polite tone."
+      },
+      {
+        "phrase": "Eu preciso de sua opinião sobre isso.",
+        "translation": "I need your opinion on this.",
+        "context": "Seeking advice or input from someone",
+        "tips": "Use 'sua opinião' to show respect and appreciation."
+      },
+      {
+        "phrase": "Essa é uma situação muito complicada, vamos ter que encontrar uma solução criativa.",
+        "translation": "This is a very complicated situation; we'll have to find a creative solution.",
+        "context": "Discussing complex problems or challenges",
+        "tips": "Use 'vamos ter' instead of 'vai' for a more formal and collaborative tone."
+      }
+    ],
+    "4": [
+      {
+        "phrase": "A vidaç um mistãrio",
+        "translation": "Life is full of mysteries",
+        "context": "expressing the idea that life is full of unexpected events and uncertainties",
+        "tips": "Use this phrase to talk about the surprises you encounter in your daily life."
+      },
+      {
+        "phrase": "Estou ágo fome",
+        "translation": "I am starving",
+        "context": "expressing extreme hunger or thirst",
+        "tips": "This phrase is more common in informal settings and can be used in situations where you're feeling very hungry."
+      },
+      {
+        "phrase": "Não estou ágil",
+        "translation": "I'm not tired",
+        "context": "denying fatigue or exhaustion",
+        "tips": "Use this phrase when someone asks if you're tired, especially if you've had a long day."
+      },
+      {
+        "phrase": "Essa coisas é um desafio",
+        "translation": "This is a challenge",
+        "context": "expressing that something is difficult or requires effort",
+        "tips": "Use this phrase when talking about obstacles or tasks that require skill and determination."
+      },
+      {
+        "phrase": "Eu estou muito feliz por íle",
+        "translation": "I am very happy for you",
+        "context": "congratulating someone on a positive event",
+        "tips": "This phrase shows support and enthusiasm for someone's success or good news."
+      },
+      {
+        "phrase": "O tempo é um tesouro",
+        "translation": "Time is treasure",
+        "context": "valuing the importance of time and making the most of it",
+        "tips": "Use this phrase when talking about the value of time and the need to prioritize tasks and activities."
+      },
+      {
+        "phrase": "Eu estou muito cansado(a)",
+        "translation": "I am very tired",
+        "context": "expressing exhaustion or fatigue",
+        "tips": "This phrase is more common in informal settings and can be used when you're feeling extremely exhausted."
+      },
+      {
+        "phrase": "Essa cidade é incrível",
+        "translation": "This city is incredible",
+        "context": "expressing admiration for a place or experience",
+        "tips": "Use this phrase when talking about a place that impresses you, such as a new city or landmark."
+      },
+      {
+        "phrase": "Eu estou muito orgulhoso(a) de íle",
+        "translation": "I am very proud of him/her",
+        "context": "expressing pride in someone's achievement",
+        "tips": "This phrase shows strong support and admiration for someone's accomplishment or success."
+      }
+    ]
+  }
+}

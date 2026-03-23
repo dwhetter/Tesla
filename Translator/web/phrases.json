@@ -848,7 +848,68 @@
         "tips": "Use \"Schatz\" as a term of endearment, e.g. Er ist mein Schatz, ich liebe ihn sehr."
       }
     ],
-    "5": []
+    "5": [
+      {
+        "phrase": "Ich bin ein Fan von Überausien und liebe die Natur.",
+        "translation": "I am a fan of nature and love the outdoors.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Das Wetter ist heute sehr unübersichtlich.",
+        "translation": "The weather is quite unclear today.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Ich habe mich entschieden, Über ein Wochenende zu nehmen.",
+        "translation": "I have decided to take a weekend trip.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Über die neue Forschung ist sehr interessant.",
+        "translation": "Research over the new findings is quite interesting.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Die Architektur in Übern ist sehr beeindruckend.",
+        "translation": "The architecture in Oberhausen is very impressive.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Ich habe über ein hervorragendes Essen probiert.",
+        "translation": "I tried a excellent meal.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Über die aktuelle politische Situation ist sehr unruhig.",
+        "translation": "Over the current political situation is quite tumultuous.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Das Konzert über das Wochenende",
+        "translation": "The concert over the weekend",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "Über die neue Produktlinie ist sehr ansprechend.",
+        "translation": "Over the new product line is quite appealing.",
+        "context": "",
+        "tips": ""
+      },
+      {
+        "phrase": "über das Wetter kann ich keinen Schluss ziehen.",
+        "translation": "I cannot draw any conclusions about the weather.",
+        "context": "",
+        "tips": ""
+      }
+    ]
   },
   "Italian": {
     "2": [
@@ -1575,7 +1636,62 @@
         "tips": "use when expressing thanks to someone"
       }
     ],
-    "3": [],
+    "3": [
+      {
+        "phrase": "我有个朋友从天津来到北京 study abroad ",
+        "translation": "",
+        "context": "Talk about travel or living in a new city",
+        "tips": ""
+      },
+      {
+        "phrase": "你喜欢吃什么อาหาร?",
+        "translation": "What kind of food do you like?",
+        "context": "Converse about daily life or hobbies",
+        "tips": "Use 。平 to indicate a question"
+      },
+      {
+        "phrase": "我最近买了件新衣服",
+        "translation": "",
+        "context": "欢一起 or talking about shopping",
+        "tips": "Use 我爳 to describe possession"
+      },
+      {
+        "phrase": "你长大后想做什么职业?",
+        "translation": "What profession do you want to have when you grow up?",
+        "context": "学生 or career planning",
+        "tips": "Use 不欢 to express a general question"
+      },
+      {
+        "phrase": "我爳的公本亲给。",
+        "translation": "My hometown is X.",
+        "context": "Talk about your hometown or family",
+        "tips": "Use 起手 to introduce a place"
+      },
+      {
+        "phrase": "我平爳的四编。",
+        "translation": "",
+        "context": "欢一起 or talking about shopping",
+        "tips": "Use 我爳 to describe a possession"
+      },
+      {
+        "phrase": "我平的为不给。",
+        "translation": "",
+        "context": "四编 or hobbies",
+        "tips": "Use 的 after a noun to express possession"
+      },
+      {
+        "phrase": "我爳的書给是我。",
+        "translation": "",
+        "context": "不欢 or career planning",
+        "tips": "Use 不欢 to express a general question"
+      },
+      {
+        "phrase": "我爳的本子。",
+        "translation": "",
+        "context": "这是 or talking about daily life",
+        "tips": "Use 的 after a noun to express possession"
+      }
+    ],
     "1": [],
     "4": []
   },

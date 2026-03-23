@@ -15,7 +15,6 @@ const wordLoading     = document.getElementById("word-loading");
 const wordContent     = document.getElementById("word-content");
 const wordText        = document.getElementById("word-text");
 const wordCategory    = document.getElementById("word-category");
-const revealBtn       = document.getElementById("reveal-btn");
 const wordTranslation = document.getElementById("word-translation");
 const wordPronunciation = document.getElementById("word-pronunciation");
 const wordExample     = document.getElementById("word-example");
@@ -30,6 +29,7 @@ const pronunciationFeedbackEl = document.getElementById("pronunciation-feedback"
 const usageTipEl      = document.getElementById("usage-tip");
 const encouragementEl = document.getElementById("encouragement");
 const nextBtn         = document.getElementById("next-btn");
+const genAllBtn       = document.getElementById("gen-all-btn");
 const refreshBtn      = document.getElementById("refresh-btn");
 const errorBanner     = document.getElementById("error-banner");
 const bankSection     = document.getElementById("bank-section");
@@ -91,20 +91,12 @@ function showWord(level) {
   wordExample.textContent = entry.example
     ? `"${entry.example}" — ${entry.example_translation || ""}`
     : "";
-  // Reset example to hidden; show reveal button only if there's an example
-  wordExample.classList.add("hidden");
-  revealBtn.classList.toggle("hidden", !entry.example);
+  wordExample.classList.toggle("hidden", !entry.example);
 
   showLoading(false);
   recordBtn.disabled = false;
   scoreBar.style.width = "0%";
 }
-
-/* ── Reveal toggle (example sentence) ──────────────────── */
-revealBtn.addEventListener("click", () => {
-  wordExample.classList.remove("hidden");
-  revealBtn.classList.add("hidden");
-});
 
 /* ── Next word ──────────────────────────────────────────── */
 nextBtn.addEventListener("click", () => {
@@ -239,13 +231,43 @@ function renderBank() {
   });
 }
 
+/* ── Generate all levels ─────────────────────────────────── */
+genAllBtn.addEventListener("click", async () => {
+  const language = languageEl.value;
+  const name     = nameInput.value.trim();
+  if (!confirm(`Generate vocabulary for all 5 levels of ${language}? This may take a minute.`)) return;
+  setBusy(true, "Generating all levels…");
+
+  try {
+    const resp = await fetch("/api/vocab/generate-all", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ language, name }),
+    });
+    const data = await resp.json();
+
+    Object.entries(data.results ?? data).forEach(([lvl, words]) => {
+      vocabBank[lvl]  = words.map(w => ({ ...w, score: null }));
+      vocabIndex[lvl] = 0;
+    });
+
+    renderBank();
+    showWord(levelEl.value);
+    if (data.errors && Object.keys(data.errors).length)
+      showError(`Some levels failed: ${JSON.stringify(data.errors)}`);
+  } catch (err) {
+    showError(`Generate all failed: ${err.message}`);
+  } finally {
+    setBusy(false);
+  }
+});
+
 /* ── Refresh ─────────────────────────────────────────────── */
 refreshBtn.addEventListener("click", async () => {
   const language = languageEl.value;
   const level    = levelEl.value;
   const name     = nameInput.value.trim();
-  refreshBtn.disabled = true;
-  refreshBtn.textContent = "Regenerating…";
+  setBusy(true, "Regenerating…");
 
   try {
     const resp = await fetch("/api/vocab/refresh", {
@@ -263,10 +285,16 @@ refreshBtn.addEventListener("click", async () => {
   } catch (err) {
     showError(`Refresh failed: ${err.message}`);
   } finally {
-    refreshBtn.disabled = false;
-    refreshBtn.textContent = "↺ New Words";
+    setBusy(false);
   }
 });
+
+function setBusy(busy, label = "") {
+  genAllBtn.disabled  = busy;
+  refreshBtn.disabled = busy;
+  genAllBtn.textContent  = busy && label ? label : "⚡ All Levels";
+  refreshBtn.textContent = busy && !label ? "Regenerating…" : "↺ New Words";
+}
 
 /* ── Controls ────────────────────────────────────────────── */
 languageEl.addEventListener("change", () => {

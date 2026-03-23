@@ -360,6 +360,31 @@ def vocab_batch():
         return jsonify({"error": str(e)}), 500
 
 
+@app.route("/api/vocab/generate-all", methods=["POST"])
+def vocab_generate_all():
+    """Generate vocabulary for any missing levels of a language and save to file."""
+    language = request.json.get("language", "Spanish")
+    name     = request.json.get("name", "").strip()
+    errors   = {}
+    results  = {}
+
+    for level in range(1, 6):
+        cached = vocab_db_get(language, str(level))
+        if cached:
+            results[str(level)] = cached
+            continue
+        try:
+            words = _validate_vocab(generate_vocab_for_level(language, level, name))
+            vocab_db_set(language, str(level), words)
+            results[str(level)] = words
+        except Exception as e:
+            errors[str(level)] = str(e)
+
+    if errors:
+        return jsonify({"results": results, "errors": errors}), 207
+    return jsonify(results)
+
+
 @app.route("/api/vocab/refresh", methods=["POST"])
 def vocab_refresh():
     language = request.json.get("language", "Spanish")

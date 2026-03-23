@@ -37,7 +37,8 @@
           <option value="4">Level 4 – Upper-Intermediate</option>
           <option value="5">Level 5 – Advanced</option>
         </select>
-        <button id="refresh-btn" class="icon-btn" title="Regenerate vocabulary for this level" style="grid-column: 1 / -1;">↺ New Words</button>
+        <button id="gen-all-btn" class="icon-btn" title="Generate all levels for this language">⚡ All Levels</button>
+        <button id="refresh-btn" class="icon-btn" title="Regenerate vocabulary for this level">↺ New Words</button>
       </div>
     </header>
 
@@ -54,10 +55,7 @@
         <p id="word-pronunciation" class="vocab-pronunciation"></p>
         <div class="vocab-category"><span id="word-category"></span></div>
 
-        <div class="reveal-area">
-          <button id="reveal-btn" class="reveal-btn">👁 Show example</button>
-          <p id="word-example" class="vocab-example hidden"></p>
-        </div>
+        <p id="word-example" class="vocab-example"></p>
       </div>
     </section>
 

@@ -1,0 +1,1866 @@
+{
+  "Spanish": {
+    "1": [
+      {
+        "word": "adiós",
+        "translation": "goodbye",
+        "pronunciation": "ah-DEE-yos",
+        "example": "Adiós, hasta luego.",
+        "example_translation": "Goodbye, see you later.",
+        "category": "greetings"
+      },
+      {
+        "word": "gracias",
+        "translation": "thank you",
+        "pronunciation": "GRAH-see-ahs",
+        "example": "Gracias por la ayuda.",
+        "example_translation": "Thanks for the help.",
+        "category": "politeness"
+      },
+      {
+        "word": "¿cómo estás?",
+        "translation": "how are you?",
+        "pronunciation": "KOH-moh eh-STAH",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "estoy bien",
+        "translation": "I'm fine, thank you",
+        "pronunciation": "eh-STOH bee-EHN",
+        "example": "",
+        "example_translation": "",
+        "category": "responses"
+      },
+      {
+        "word": "hambre",
+        "translation": "hunger",
+        "pronunciation": "AHM-bray",
+        "example": "Tengo hambre.",
+        "example_translation": "I'm hungry.",
+        "category": "food"
+      },
+      {
+        "word": "agua",
+        "translation": "water",
+        "pronunciation": "AH-gwah",
+        "example": "Me gusta el agua.",
+        "example_translation": "I like water.",
+        "category": "food"
+      },
+      {
+        "word": "pan",
+        "translation": "bread",
+        "pronunciation": "PAHN",
+        "example": "",
+        "example_translation": "",
+        "category": "food"
+      },
+      {
+        "word": "madera",
+        "translation": "wood",
+        "pronunciation": "mah-DEH-rah",
+        "example": "",
+        "example_translation": "",
+        "category": "travel"
+      },
+      {
+        "word": "carretera",
+        "translation": "road",
+        "pronunciation": "kah-reh-TAY-rah",
+        "example": "",
+        "example_translation": "",
+        "category": "travel"
+      },
+      {
+        "word": "família",
+        "translation": "family",
+        "pronunciation": "fah-MEE-lah",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "madre",
+        "translation": "mother",
+        "pronunciation": "MAH-dre",
+        "example": "Mi madre es muy feliz.",
+        "example_translation": "My mother is very happy.",
+        "category": "family"
+      },
+      {
+        "word": "padre",
+        "translation": "father",
+        "pronunciation": "pah-DEH-reh",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "amigo",
+        "translation": "friend",
+        "pronunciation": "ah-MEE-goh",
+        "example": "Mi amigo se llama Juan.",
+        "example_translation": "My friend's name is John.",
+        "category": "relationships"
+      },
+      {
+        "word": "felicidad",
+        "translation": "happiness",
+        "pronunciation": "feh-lee-SID-ad",
+        "example": "",
+        "example_translation": "",
+        "category": "emotions"
+      },
+      {
+        "word": "tristeza",
+        "translation": "sadness",
+        "pronunciation": "tree-STAY-zah",
+        "example": "",
+        "example_translation": "",
+        "category": "emotions"
+      }
+    ],
+    "4": [
+      {
+        "word": "disfrutar",
+        "translation": "to enjoy",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "soltería",
+        "translation": "single life (idiomatic expression)",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "cena",
+        "translation": "dinner",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "llegar",
+        "translation": "to arrive",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "amor propicio",
+        "translation": "favorable time (for something)",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "fiebre de viajar",
+        "translation": "travel fever",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "mala onda",
+        "translation": "bad vibes",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "estar en sintonía",
+        "translation": "to be in sync",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "vivir a costa",
+        "translation": "to live off (someone's money)",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "enamorarse de una idea",
+        "translation": "to fall in love with an idea",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "estar en la luna de Valencia",
+        "translation": "to be moonstruck",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "venderse a algo",
+        "translation": "to sell oneself to something",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "tomar el pelo",
+        "translation": "to take someone's hair",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "perder la cabeza",
+        "translation": "to lose one's head",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "estar hecho polvo",
+        "translation": "to be utterly defeated",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      }
+    ],
+    "3": [
+      {
+        "word": "desayuno",
+        "translation": "breakfast",
+        "pronunciation": "deh-SAH-noo-noh",
+        "example": "Me encanta el desayuno de mi familia.",
+        "example_translation": "I love my family's breakfast.",
+        "category": ""
+      },
+      {
+        "word": "viaje",
+        "translation": "trip",
+        "pronunciation": "vee-AH-hey",
+        "example": "¿Cuál es la mejor ciudad para un viaje de una semana?",
+        "example_translation": "What is the best city for a one-week trip?",
+        "category": ""
+      },
+      {
+        "word": "abuela",
+        "translation": "grandmother",
+        "pronunciation": "ah-BWEH-lah",
+        "example": "Me encanta pasar tiempo con mi abuela.",
+        "example_translation": "I love spending time with my grandmother.",
+        "category": ""
+      },
+      {
+        "word": "ansiedad",
+        "translation": "anxiety",
+        "pronunciation": "ahn-see-EED-ee-ah",
+        "example": "Tengo ansiedad antes de un examen importante.",
+        "example_translation": "I have anxiety before an important exam.",
+        "category": ""
+      },
+      {
+        "word": "felicidad",
+        "translation": "happiness",
+        "pronunciation": "feh-LEE-seed-ah",
+        "example": "Me siento muy feliz cuando estoy con mis amigos.",
+        "example_translation": "I feel very happy when I'm with my friends.",
+        "category": ""
+      },
+      {
+        "word": "restaurant",
+        "translation": "restaurant",
+        "pronunciation": "reh-stoh-rahn-t",
+        "example": "El restaurante de mi favorito es en la ciudad.",
+        "example_translation": "My favorite restaurant is in the city.",
+        "category": ""
+      },
+      {
+        "word": "mundo",
+        "translation": "world",
+        "pronunciation": "MOON-do",
+        "example": "Quiero viajar por todo el mundo algún día.",
+        "example_translation": "I want to travel all around the world someday.",
+        "category": ""
+      },
+      {
+        "word": "gusto",
+        "translation": "taste",
+        "pronunciation": "GOO-stoh",
+        "example": "Me gusta el sabor del té",
+        "example_translation": "I like the taste of tea.",
+        "category": ""
+      },
+      {
+        "word": "confianza",
+        "translation": "trust",
+        "pronunciation": "kohn-fee-AH-nah",
+        "example": "Tengo confianza en mi capacidad para aprender español.",
+        "example_translation": "I trust in my ability to learn Spanish.",
+        "category": ""
+      },
+      {
+        "word": "memoria",
+        "translation": "memory",
+        "pronunciation": "meh-MOH-ree-ah",
+        "example": "Mi memoria es muy buena cuando estoy estudiando.",
+        "example_translation": "My memory is very good when I'm studying.",
+        "category": ""
+      },
+      {
+        "word": "sorprresa",
+        "translation": "surprise",
+        "pronunciation": "sohr-PREH-sah",
+        "example": "Me sorprendió el espectáculo de fuegos artificiales.",
+        "example_translation": "I was surprised by the fireworks display.",
+        "category": ""
+      },
+      {
+        "word": "cena",
+        "translation": "dinner",
+        "pronunciation": "SEH-nah",
+        "example": "Vamos a la cena con mis amigos.",
+        "example_translation": "We're going to dinner with my friends.",
+        "category": ""
+      },
+      {
+        "word": "pensamiento",
+        "translation": "thought",
+        "pronunciation": "pehn-SAHN-tayoh",
+        "example": "Mi pensamiento es que deberíamos viajar más a menudo.",
+        "example_translation": "My thought is that we should travel more often.",
+        "category": ""
+      },
+      {
+        "word": "aprender",
+        "translation": "to learn",
+        "pronunciation": "ahp-REHN-dreh",
+        "example": "Quiero aprender español para mejorar mi vida.",
+        "example_translation": "I want to learn Spanish to improve my life.",
+        "category": ""
+      },
+      {
+        "word": "recuerda",
+        "translation": "remember",
+        "pronunciation": "reh-KOO-reh-dah",
+        "example": "Recuérdame la fecha de nuestro cumpleaños.",
+        "example_translation": "Remember the date of our birthday.",
+        "category": ""
+      },
+      {
+        "word": "lugar",
+        "translation": "place",
+        "pronunciation": "LOO-gahr",
+        "example": "¿Dónde está el lugar donde vivimos?",
+        "example_translation": "Where is the place where we live?",
+        "category": ""
+      }
+    ],
+    "2": [
+      {
+        "word": "comida",
+        "translation": "food",
+        "pronunciation": "koh-MEE-dah",
+        "example": "¿Qué comida te gusta?",
+        "example_translation": "What kind of food do you like?",
+        "category": "meals and snacks"
+      },
+      {
+        "word": "tú",
+        "translation": "you (singular)",
+        "pronunciation": "too",
+        "example": "¿Cómo estás, tú?",
+        "example_translation": "How are you, you?",
+        "category": "family and friends"
+      },
+      {
+        "word": "amigo",
+        "translation": "friend",
+        "pronunciation": "ah-MEE-goh",
+        "example": "Me gusta pasar tiempo con mis amigos.",
+        "example_translation": "I like spending time with my friends.",
+        "category": "family and friends"
+      },
+      {
+        "word": "familia",
+        "translation": "family",
+        "pronunciation": "fah-mee-LAH",
+        "example": "¿Cuántas personas hay en tu familia?",
+        "example_translation": "How many people are in your family?",
+        "category": "family"
+      },
+      {
+        "word": "mañana",
+        "translation": "tomorrow",
+        "pronunciation": "mah-NYAh",
+        "example": "¿Vamos a ir al parque mañana?",
+        "example_translation": "Let's go to the park tomorrow.",
+        "category": "schedules and plans"
+      },
+      {
+        "word": "felicidad",
+        "translation": "happiness",
+        "pronunciation": "feh-lee-SID-tah",
+        "example": "Me alegra verte, ¿cómo te va?",
+        "example_translation": "I'm glad to see you, how are you?",
+        "category": "emotions and feelings"
+      },
+      {
+        "word": "tristeza",
+        "translation": "sadness",
+        "pronunciation": "tree-SAY-zah",
+        "example": "Me siento triste cuando no puedo ver a mis amigos.",
+        "example_translation": "I feel sad when I can't see my friends.",
+        "category": "emotions and feelings"
+      },
+      {
+        "word": "gracias",
+        "translation": "thanks",
+        "pronunciation": "GRAH-see-ahs",
+        "example": "Gracias por ayudarme.",
+        "example_translation": "Thanks for helping me.",
+        "category": "polite expressions"
+      },
+      {
+        "word": "perdón",
+        "translation": "sorry",
+        "pronunciation": "pehr-DON",
+        "example": "Lo siento, perdón, ¿cómo estás?",
+        "example_translation": "Sorry, I'm sorry, how are you?",
+        "category": "apologies"
+      },
+      {
+        "word": "¿dónde?",
+        "translation": "where",
+        "pronunciation": "DOHN-deh",
+        "example": "¿Dónde está el baño?",
+        "example_translation": "Where is the bathroom?",
+        "category": "locations and directions"
+      },
+      {
+        "word": "cuánto cuesta",
+        "translation": "how much does it cost",
+        "pronunciation": "KWAHN-toh KWEHS-tah",
+        "example": "¿Cuánto cuesta el ticket?",
+        "example_translation": "How much does the ticket cost?",
+        "category": "prices and money"
+      },
+      {
+        "word": "viaje",
+        "translation": "trip",
+        "pronunciation": "vee-AH-heh",
+        "example": "Me encantaría hacer un viaje a la playa.",
+        "example_translation": "I would love to take a trip to the beach.",
+        "category": "travel and trips"
+      },
+      {
+        "word": "mucho",
+        "translation": "a lot",
+        "pronunciation": "MOO-choh",
+        "example": "Me gusta jugar mucho con mis amigos.",
+        "example_translation": "I like playing a lot with my friends.",
+        "category": "quantifiers and adverbs"
+      },
+      {
+        "word": "querer",
+        "translation": "to want",
+        "pronunciation": "KEH-rehr",
+        "example": "Quiero un helado",
+        "example_translation": "I want a ice cream.",
+        "category": "desires and wishes"
+      }
+    ],
+    "5": [
+      {
+        "word": "aburrido",
+        "translation": "boring",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "apasionado",
+        "translation": "passionate",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "authenticidad",
+        "translation": "authenticity",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "cementerio",
+        "translation": "cemetery",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "dilema",
+        "translation": "dilemma",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "empresario",
+        "translation": "entrepreneur",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "entusiasmo",
+        "translation": "enthusiasm",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "exasperado",
+        "translation": "frustrated",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "fidelidad",
+        "translation": "loyalty",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "gente",
+        "translation": "people",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "honestidad",
+        "translation": "honesty",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "independencia",
+        "translation": "independence",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "intelectual",
+        "translation": "intellectual",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "luzbrilla",
+        "translation": "headlight",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "maldad",
+        "translation": "evil",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      }
+    ]
+  },
+  "French": {
+    "2": [],
+    "3": [
+      {
+        "word": "crêpe",
+        "translation": "crepe (thin pancake)",
+        "pronunciation": "",
+        "example": "Mange une crêpe avec du miel et des fruits.",
+        "example_translation": "Eat a crepe with honey and fruit.",
+        "category": "food"
+      },
+      {
+        "word": "saisonner",
+        "translation": "to season (add flavor to food)",
+        "pronunciation": "",
+        "example": "Saisonnez vos legumes avant de les cuire.",
+        "example_translation": "Season your vegetables before cooking them.",
+        "category": "cooking"
+      },
+      {
+        "word": "réservé",
+        "translation": "reserved (available for booking)",
+        "pronunciation": "",
+        "example": "Le restaurant est réservé pour la nuit.",
+        "example_translation": "The restaurant is reserved for the night.",
+        "category": "travel"
+      },
+      {
+        "word": "décès",
+        "translation": "death",
+        "pronunciation": "",
+        "example": "Nous sommes désolés de vous annoncer le décès de votre beau-frère.",
+        "example_translation": "We are sorry to inform you of your uncle's death.",
+        "category": "family"
+      },
+      {
+        "word": "désespoir",
+        "translation": "desperation",
+        "pronunciation": "",
+        "example": "Je suis dans un état de désespoir après la rupture.",
+        "example_translation": "I am in a state of desperation after the break-up.",
+        "category": "emotions"
+      },
+      {
+        "word": "mémorial",
+        "translation": "memorial",
+        "pronunciation": "",
+        "example": "Il y a un mémorial dédié aux héros de la guerre.",
+        "example_translation": "There is a memorial dedicated to the war heroes.",
+        "category": "travel"
+      },
+      {
+        "word": "familial",
+        "translation": "family-related",
+        "pronunciation": "",
+        "example": "C'est une relation familiale très importante pour moi.",
+        "example_translation": "It's a very important family relationship for me.",
+        "category": "family"
+      },
+      {
+        "word": "bouteille",
+        "translation": "bottle",
+        "pronunciation": "",
+        "example": "La bouteille de vin est brisée sur le sol.",
+        "example_translation": "The wine bottle is broken on the floor.",
+        "category": "food"
+      },
+      {
+        "word": "autonomie",
+        "translation": "independence",
+        "pronunciation": "",
+        "example": "Les jeunes filles ont besoin d'une plus grande autonomie pour leur vie personnelle.",
+        "example_translation": "Young girls need more independence for their personal life.",
+        "category": "family"
+      },
+      {
+        "word": "excédentaire",
+        "translation": "excessive",
+        "pronunciation": "",
+        "example": "Le spectacle était trop excédentaire et je me suis senti déçu.",
+        "example_translation": "The show was too excessive and I felt disappointed.",
+        "category": "emotions"
+      },
+      {
+        "word": "soutien",
+        "translation": "support",
+        "pronunciation": "",
+        "example": "Il vous offre son soutien dans ce moment difficile.",
+        "example_translation": "He offers you his support in this difficult time.",
+        "category": "family"
+      },
+      {
+        "word": "cachet",
+        "translation": "stamp (or label)",
+        "pronunciation": "",
+        "example": "Le cachet de l'envoi indique que c'est un courrier prioritaire.",
+        "example_translation": "The postal stamp of the delivery indicates that it's a priority mail.",
+        "category": "travel"
+      },
+      {
+        "word": "intéressant",
+        "translation": "interesting",
+        "pronunciation": "",
+        "example": "Ce film est vraiment intéressant et je vous le recommande.",
+        "example_translation": "This movie is really interesting and I recommend it to you.",
+        "category": "entertainment"
+      }
+    ],
+    "4": [
+      {
+        "word": "aller-retour",
+        "translation": "round trip",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "faire son beurre",
+        "translation": "make one's own luck",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "être dans les nuages",
+        "translation": "be in a state of mind",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "croque-monsieur",
+        "translation": "grilled ham sandwich",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "faire le noir",
+        "translation": "play it cool",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "prendre la tangente",
+        "translation": "take the easy way out",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "se faire prendre pour un fantôme",
+        "translation": "be mistaken for a ghost",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "boguer dans les petits détails",
+        "translation": "get bogged down in details",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "casser du sucre sur les dents",
+        "translation": "break bread together",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "prendre le large",
+        "translation": "go off on a tangent",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "ne pas être au boulot",
+        "translation": "not be at work",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "tomber dans les pommes",
+        "translation": "fall into something",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "être dans les poils",
+        "translation": "be in the zone",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "se prendre pour un chevalier ",
+        "translation": "think one is a knight",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      },
+      {
+        "word": "faire sa valise",
+        "translation": "pack one's bags",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": ""
+      }
+    ]
+  },
+  "German": {
+    "1": [
+      {
+        "word": "Hallo",
+        "translation": "hello",
+        "pronunciation": "HA-lo",
+        "example": "Hallo, wie geht's dir?",
+        "example_translation": "Hello, how are you?",
+        "category": "greetings"
+      },
+      {
+        "word": "Danke",
+        "translation": "thank you",
+        "pronunciation": "DAHN-keh",
+        "example": "Danke für das Essen.",
+        "example_translation": "Thank you for the food.",
+        "category": "food"
+      },
+      {
+        "word": "Bitte",
+        "translation": "please",
+        "pronunciation": "BIT-tah",
+        "example": "Bitte, Wasser, bitte.",
+        "example_translation": "Please, water, please.",
+        "category": "requests"
+      },
+      {
+        "word": "Auf Wiedersehen",
+        "translation": "goodbye",
+        "pronunciation": "OWF WEED-er-zehn",
+        "example": "Auf Wiedersehen, bis bald.",
+        "example_translation": "Goodbye, see you soon.",
+        "category": "greetings"
+      },
+      {
+        "word": "Brot",
+        "translation": "bread",
+        "pronunciation": "BROHT",
+        "example": "Ich möchte Brot und Käse.",
+        "example_translation": "I would like bread and cheese.",
+        "category": "food"
+      },
+      {
+        "word": "Mama",
+        "translation": "mom",
+        "pronunciation": "MAH-mah",
+        "example": "Mein Mama ist sehr schön.",
+        "example_translation": "My mom is very pretty.",
+        "category": "family"
+      },
+      {
+        "word": "Papa",
+        "translation": "dad",
+        "pronunciation": "PAH-pah",
+        "example": "Mein Papa lebt in Berlin.",
+        "example_translation": "My dad lives in Berlin.",
+        "category": "family"
+      },
+      {
+        "word": "Brüder",
+        "translation": "brother",
+        "pronunciation": "BROO-der",
+        "example": "Meine Schwester ist mein Bruder.",
+        "example_translation": "My sister is my brother.",
+        "category": "family"
+      },
+      {
+        "word": "Schwester",
+        "translation": "sister",
+        "pronunciation": "SHVOO-stah",
+        "example": "Meine Schwester ist sehr nett.",
+        "example_translation": "My sister is very nice.",
+        "category": "family"
+      },
+      {
+        "word": "Freund",
+        "translation": "friend",
+        "pronunciation": "FREND",
+        "example": "Du bist mein Freund.",
+        "example_translation": "You are my friend.",
+        "category": "relationships"
+      },
+      {
+        "word": "Schmerz",
+        "translation": "pain",
+        "pronunciation": "SHMER-tz",
+        "example": "Ich habe Schmerz in meinem Kopf.",
+        "example_translation": "I have pain in my head.",
+        "category": "emotions"
+      },
+      {
+        "word": "Freude",
+        "translation": "joy",
+        "pronunciation": "FREH-duh",
+        "example": "Ich bin glücklich, weil ich Freude habe.",
+        "example_translation": "I am happy because I have joy.",
+        "category": "emotions"
+      }
+    ],
+    "2": []
+  },
+  "Italian": {
+    "1": [
+      {
+        "word": "Ciao",
+        "translation": "Hi/Hello",
+        "pronunciation": "CHOW",
+        "example": "Ciao, come stai?",
+        "example_translation": "Hi, how are you?",
+        "category": "greetings"
+      },
+      {
+        "word": "Grazie",
+        "translation": "Thank you",
+        "pronunciation": "GRAH-zee-eh",
+        "example": "Grazie per il caffè.",
+        "example_translation": "Thanks for the coffee.",
+        "category": "expressions of gratitude"
+      },
+      {
+        "word": "Per favore",
+        "translation": "Please",
+        "pronunciation": "pehr fah-VOH-reh",
+        "example": "Per favore, posso usare il bagno?",
+        "example_translation": "Please, may I use the restroom?",
+        "category": "requests and permission"
+      },
+      {
+        "word": "Scusa",
+        "translation": "Excuse me/Sorry",
+        "pronunciation": "SKOO-zah",
+        "example": "Scusa, ho perduto la mia borsa.",
+        "example_translation": "Excuse me, I lost my bag.",
+        "category": "apologies and explanations"
+      },
+      {
+        "word": "Dove si trova...",
+        "translation": "Where is...",
+        "pronunciation": "DOH-vay SEE-troh-mah",
+        "example": "Dove si trova la stazione?",
+        "example_translation": "Where is the train station?",
+        "category": "asking for directions"
+      },
+      {
+        "word": "Quanto costa?",
+        "translation": "How much does it cost?",
+        "pronunciation": "KWAHN-toh KOH-sta",
+        "example": "Quanto costa questo caffè?",
+        "example_translation": "How much does this coffee cost?",
+        "category": "asking prices"
+      },
+      {
+        "word": "Sì/No",
+        "translation": "Yes/No",
+        "pronunciation": "SEE/noh",
+        "example": "Sì, posso pagare con carta di credito.",
+        "example_translation": "Yes, I can pay with credit card.",
+        "category": "affirming and denying"
+      },
+      {
+        "word": "Fantastico",
+        "translation": "Fantastic",
+        "pronunciation": "fahn-tah-STEE-koh",
+        "example": "Questo ristorante è fantastico!",
+        "example_translation": "This restaurant is fantastic!",
+        "category": "adjectives"
+      },
+      {
+        "word": "Mamma",
+        "translation": "Mom",
+        "pronunciation": "MAH-mah",
+        "example": "Come stai, mamma?",
+        "example_translation": "How are you, mom?",
+        "category": "family terms"
+      },
+      {
+        "word": "Papà",
+        "translation": "Dad",
+        "pronunciation": "pah-PAH",
+        "example": "Come stai, papà?",
+        "example_translation": "How are you, dad?",
+        "category": "family terms"
+      },
+      {
+        "word": "Amico",
+        "translation": "Friend",
+        "pronunciation": "ah-MEE-koh",
+        "example": "Ciao, amico!",
+        "example_translation": "Hi, friend!",
+        "category": "social relationships"
+      },
+      {
+        "word": "Siamo felici",
+        "translation": "We are happy",
+        "pronunciation": "ZAY-moh feh-LEE-chee",
+        "example": "Siamo felici per il compleanno!",
+        "example_translation": "We are happy for the birthday!",
+        "category": "emotions and feelings"
+      },
+      {
+        "word": "Mi dispiace",
+        "translation": "I'm sorry",
+        "pronunciation": "mee dee-spyah-CHAY",
+        "example": "Mi dispiace, non posso venire.",
+        "example_translation": "Sorry, I won't be able to come.",
+        "category": "apologies and regret"
+      }
+    ],
+    "3": [
+      {
+        "word": "ristorante",
+        "translation": "restaurant",
+        "pronunciation": "/ri.sta.nte/",
+        "example": "Abbiamo mangiato al ristorante ieri sera.",
+        "example_translation": "We ate at the restaurant last night.",
+        "category": ""
+      },
+      {
+        "word": "passeggiata",
+        "translation": "stroll",
+        "pronunciation": "/pa.ssa.gi.a/",
+        "example": "Hai fatto una bella passeggia nel parco?",
+        "example_translation": "Did you take a nice walk in the park?",
+        "category": ""
+      },
+      {
+        "word": "famiglia",
+        "translation": "family",
+        "pronunciation": "/fa.mi.lia/",
+        "example": "La mia famiglia è originaria del Nord.",
+        "example_translation": "My family is from the North.",
+        "category": ""
+      },
+      {
+        "word": "emotività",
+        "translation": "emotions",
+        "pronunciation": "/e.mo.ti.vi./",
+        "example": "Sentivo molte emotività durante la partita.",
+        "example_translation": "I felt many emotions during the game.",
+        "category": ""
+      },
+      {
+        "word": "avventura",
+        "translation": "adventure",
+        "pronunciation": "/a.ven.tu.ra/",
+        "example": "L'ultima avventura di mio figlio è stata al mare.",
+        "example_translation": "My son's last adventure was at the beach.",
+        "category": ""
+      },
+      {
+        "word": "speranza",
+        "translation": "hope",
+        "pronunciation": "/se.pra.na/",
+        "example": "La sua speranza era che potesse recuperarsi dalla lesione.",
+        "example_translation": "Her hope was that she could recover from the injury.",
+        "category": ""
+      },
+      {
+        "word": "dolce",
+        "translation": "sweet",
+        "pronunciation": "/do.lce/",
+        "example": "Il dolce è stato delizioso con il caffè.",
+        "example_translation": "The dessert was delicious with coffee.",
+        "category": ""
+      },
+      {
+        "word": "lavoro",
+        "translation": "work",
+        "pronunciation": "/la.vo.rò/",
+        "example": "Il mio lavoro è un po' stressante a volte.",
+        "example_translation": "My work is a bit stressful sometimes.",
+        "category": ""
+      },
+      {
+        "word": "sorriso",
+        "translation": "smile",
+        "pronunciation": "/so.ro.ri.so/",
+        "example": "Il suo sorriso era contagioso.",
+        "example_translation": "His smile was contagious.",
+        "category": ""
+      },
+      {
+        "word": "ferimento",
+        "translation": "wound",
+        "pronunciation": "/fe.rin.te/",
+        "example": "Lui ha una ferita sulla mano.",
+        "example_translation": "He has a wound on his hand.",
+        "category": ""
+      },
+      {
+        "word": "conoscenza",
+        "translation": "knowledge",
+        "pronunciation": "/kon.os.sen.za/",
+        "example": "La sua conoscenza del francese è eccellente.",
+        "example_translation": "Her knowledge of French is excellent.",
+        "category": ""
+      },
+      {
+        "word": "entusiasmo",
+        "translation": "passion",
+        "pronunciation": "/en.tu.sa.lismo/",
+        "example": "Il suo entusiasmo per la musica è contagioso.",
+        "example_translation": "His passion for music is contagious.",
+        "category": ""
+      },
+      {
+        "word": "disagreemento",
+        "translation": "disagreement",
+        "pronunciation": "/di.sa.gre.men.to/",
+        "example": "Non avevo un malinteso con lui.",
+        "example_translation": "I didn't have a misunderstanding with him.",
+        "category": ""
+      },
+      {
+        "word": "responsabilità",
+        "translation": "responsibility",
+        "pronunciation": "/res.po.rsa.bil.ità/",
+        "example": "La sua responsabilità è prendere la decisione giusta.",
+        "example_translation": "Her responsibility is to make the right decision.",
+        "category": ""
+      }
+    ]
+  },
+  "Japanese": {
+    "1": [
+      {
+        "word": "konnichiwa",
+        "translation": "hello",
+        "pronunciation": "KOH-nee-chee-wa",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "arigatou",
+        "translation": "thank you",
+        "pronunciation": "AH-ree-gah-toh",
+        "example": "",
+        "example_translation": "",
+        "category": "polite phrases"
+      },
+      {
+        "word": "sumimasen",
+        "translation": "excuse me",
+        "pronunciation": "SOO-mee-mah-sehn",
+        "example": "",
+        "example_translation": "",
+        "category": "polite phrases"
+      },
+      {
+        "word": "ohayou gozaimasu",
+        "translation": "good morning",
+        "pronunciation": "OH-hah-yoo GOH-zah-ee-moss",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "konbanwa",
+        "translation": "good evening",
+        "pronunciation": "Kohn-bah-nwah",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "ohayou ni kamatta",
+        "translation": "good morning (informal)",
+        "pronunciation": "OH-hah-yoo nee kah-MAH-tah",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "tokimeku",
+        "translation": "delicious",
+        "pronunciation": "toh-kee-MEH-koo",
+        "example": "",
+        "example_translation": "",
+        "category": "food"
+      },
+      {
+        "word": "miso",
+        "translation": "soy sauce",
+        "pronunciation": "mee-soh",
+        "example": "",
+        "example_translation": "",
+        "category": "food"
+      },
+      {
+        "word": "oden",
+        "translation": "Japanese fish cake",
+        "pronunciation": "oh-DEHN",
+        "example": "",
+        "example_translation": "",
+        "category": "food"
+      },
+      {
+        "word": "dōkannya",
+        "translation": "yes",
+        "pronunciation": "DOH-kah-nyah",
+        "example": "",
+        "example_translation": "",
+        "category": "responses"
+      },
+      {
+        "word": "itadakimasu",
+        "translation": "bon appétit",
+        "pronunciation": "ee-tah-dah-KY-moss",
+        "example": "",
+        "example_translation": "",
+        "category": "eating phrases"
+      },
+      {
+        "word": "arigatou gozaimasu",
+        "translation": "you're welcome",
+        "pronunciation": "AH-ree-gah-toh GOH-zah-ee-moss",
+        "example": "",
+        "example_translation": "",
+        "category": "responses"
+      },
+      {
+        "word": "nani ga arimasu ka",
+        "translation": "what's this? / what is it?",
+        "pronunciation": "NAH-nee ga ah-ree-mah-suh kah",
+        "example": "",
+        "example_translation": "",
+        "category": "asking questions"
+      },
+      {
+        "word": "ai desu",
+        "translation": "I love you (literally) / I care about you",
+        "pronunciation": "AH-ee deh-soo",
+        "example": "",
+        "example_translation": "",
+        "category": "emotions"
+      }
+    ],
+    "2": [
+      {
+        "word": "konnichiwa",
+        "translation": "hello",
+        "pronunciation": "koh-n-nee-chee-wa",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "arigatou",
+        "translation": "thank you",
+        "pronunciation": "ah-ree-gah-toh",
+        "example": "",
+        "example_translation": "",
+        "category": "politeness"
+      },
+      {
+        "word": "o genki desu ka",
+        "translation": "how are you?",
+        "pronunciation": "oh ghen-kee dehs-kah",
+        "example": "",
+        "example_translation": "",
+        "category": "greetings"
+      },
+      {
+        "word": "sumimasen",
+        "translation": "excuse me",
+        "pronunciation": "soo-mee-mah-seh-n",
+        "example": "",
+        "example_translation": "",
+        "category": "politeness"
+      },
+      {
+        "word": "muzukashii desu",
+        "translation": "it's difficult",
+        "pronunciation": "moo-zoo-kah-see deshu",
+        "example": "",
+        "example_translation": "",
+        "category": "adjectives"
+      },
+      {
+        "word": "tabemono",
+        "translation": "food",
+        "pronunciation": "tah-beh-mon-oh",
+        "example": "",
+        "example_translation": "",
+        "category": "nouns"
+      },
+      {
+        "word": "nomi",
+        "translation": "to eat",
+        "pronunciation": "noh-mee",
+        "example": "",
+        "example_translation": "",
+        "category": "verbs"
+      },
+      {
+        "word": "kasa",
+        "translation": "umbrella",
+        "pronunciation": "kah-sah",
+        "example": "",
+        "example_translation": "",
+        "category": "objects"
+      },
+      {
+        "word": "tora",
+        "translation": "dog",
+        "pronunciation": "toh-rah",
+        "example": "",
+        "example_translation": "",
+        "category": "nouns"
+      },
+      {
+        "word": "oneesan",
+        "translation": "older sister",
+        "pronunciation": "oh-nay-sehn",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "obasan",
+        "translation": "older brother",
+        "pronunciation": "oh-bah-sahn",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "yūjō o tsuke",
+        "translation": "let's get married",
+        "pronunciation": "yoo-yoo-oh toh-seh",
+        "example": "",
+        "example_translation": "",
+        "category": "romantic relationships"
+      },
+      {
+        "word": "shitsurei",
+        "translation": "sorry",
+        "pronunciation": "shee-too-reh",
+        "example": "",
+        "example_translation": "",
+        "category": "apologies"
+      },
+      {
+        "word": "kowai",
+        "translation": "scary",
+        "pronunciation": "koh-wah-ee",
+        "example": "",
+        "example_translation": "",
+        "category": "adjectives"
+      },
+      {
+        "word": "iki o tsukamu",
+        "translation": "I'm tired",
+        "pronunciation": "ee-kee oh toh-kah-moo",
+        "example": "",
+        "example_translation": "",
+        "category": "sentences"
+      }
+    ],
+    "5": [
+      {
+        "word": "新の海でた",
+        "translation": "restaurant",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "food"
+      },
+      {
+        "word": "今重。",
+        "translation": "vacation",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "travel"
+      },
+      {
+        "word": "王江",
+        "translation": "family ties",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "日柜でた",
+        "translation": "sincerity",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "emotions"
+      },
+      {
+        "word": "本柒いほす、",
+        "translation": "respectful language",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "formal language"
+      },
+      {
+        "word": "ウクタト",
+        "translation": "excuse me",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "politeness"
+      },
+      {
+        "word": "币今重。",
+        "translation": "weekend getaway",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "travel"
+      },
+      {
+        "word": "今本でた",
+        "translation": "family reunion",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "私海、",
+        "translation": "greeting card",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "formal language"
+      },
+      {
+        "word": "佺学でた",
+        "translation": "advice",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "life advice"
+      },
+      {
+        "word": "日本いほす、",
+        "translation": "honesty is the best policy",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "formal language"
+      },
+      {
+        "word": "今重でた",
+        "translation": "travel plans",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "travel"
+      },
+      {
+        "word": "本王江",
+        "translation": "family relationships",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      },
+      {
+        "word": "いでた",
+        "translation": "respect",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "formal language"
+      },
+      {
+        "word": "币海、",
+        "translation": "goodbye",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "politeness"
+      },
+      {
+        "word": "本狮でた",
+        "translation": "family background",
+        "pronunciation": "",
+        "example": "",
+        "example_translation": "",
+        "category": "family"
+      }
+    ]
+  },
+  "Mandarin": {
+    "1": [
+      {
+        "word": "nǐ hǎo",
+        "translation": "hello",
+        "pronunciation": "这是覄",
+        "example": "nǐ hǎo, wǒ jiào lì shèng.",
+        "example_translation": "Hello, my name is Li Sheng.",
+        "category": "greetings"
+      },
+      {
+        "word": "xiè xiè",
+        "translation": "thank you",
+        "pronunciation": "你好为一",
+        "example": "xiè xiè le, tāmen shì fā xīn de.",
+        "example_translation": "Thank you very much, you are nice people.",
+        "category": "politeness"
+      },
+      {
+        "word": "漠 天小",
+        "translation": "water",
+        "pronunciation": "四 乽天",
+        "example": "这是覄, nǐ xiǎng 漠 天小 ma?",
+        "example_translation": "Hello, do you want water?",
+        "category": "drinks"
+      },
+      {
+        "word": "chī fàn",
+        "translation": "food",
+        "pronunciation": "这是覄",
+        "example": "wǒ xǐ huān chī fàn.",
+        "example_translation": "I like food.",
+        "category": "food"
+      },
+      {
+        "word": "水 室",
+        "translation": "family",
+        "pronunciation": "和 固",
+        "example": "水 室 wǒmen jiàn zhào le.",
+        "example_translation": "Family is welcome here.",
+        "category": "family"
+      },
+      {
+        "word": "爱诩",
+        "translation": "sorry",
+        "pronunciation": "爱语",
+        "example": "爱诩, wǒ shì xiè jiào.",
+        "example_translation": "Sorry, I am very sorry.",
+        "category": "apologies"
+      },
+      {
+        "word": "本 强",
+        "translation": "love",
+        "pronunciation": "渡 你",
+        "example": "本 强 ni&以 n'’.",
+        "example_translation": "I love you.",
+        "category": "emotions"
+      },
+      {
+        "word": "园諔",
+        "translation": "home",
+        "pronunciation": "因食",
+        "example": "园諔 wǒmen de.",
+        "example_translation": "Home is where we live.",
+        "category": "homes"
+      },
+      {
+        "word": "輠 子",
+        "translation": "bus",
+        "pronunciation": "輠 宠",
+        "example": "輠 子 k~hu’an shi.",
+        "example_translation": "The bus is very convenient.",
+        "category": "transportation"
+      },
+      {
+        "word": "约谷",
+        "translation": "airplane",
+        "pronunciation": "约发",
+        "example": "约谷 gu'’an shi.",
+        "example_translation": "The airplane is very convenient.",
+        "category": "transportation"
+      },
+      {
+        "word": "关 一",
+        "translation": "money",
+        "pronunciation": "关 发",
+        "example": "关 一 ch'’an k~hu’an shi.",
+        "example_translation": "Money is very convenient.",
+        "category": "money"
+      },
+      {
+        "word": "新本",
+        "translation": "school",
+        "pronunciation": "新渡",
+        "example": "新本 wǒmen de.",
+        "example_translation": "School is where we learn.",
+        "category": "education"
+      },
+      {
+        "word": "今 嚨",
+        "translation": "friend",
+        "pronunciation": "今 中",
+        "example": "今 嚨 n'’an höu’an.",
+        "example_translation": "Friend is very happy.",
+        "category": "friendship"
+      }
+    ],
+    "3": [
+      {
+        "word": "生这",
+        "translation": "friendship",
+        "pronunciation": "",
+        "example": "张中的大小",
+        "example_translation": "A close relationship.",
+        "category": "family"
+      },
+      {
+        "word": "横飯",
+        "translation": "to travel",
+        "pronunciation": "",
+        "example": "四产我部医弭",
+        "example_translation": "I'm going to explore the city.",
+        "category": "travel"
+      },
+      {
+        "word": "王劭的",
+        "translation": "the past",
+        "pronunciation": "",
+        "example": "劭的樾b万张中小",
+        "example_translation": "Looking back on the past.",
+        "category": ""
+      },
+      {
+        "word": "东语",
+        "translation": "to cry",
+        "pronunciation": "",
+        "example": "东语医的子。",
+        "example_translation": "I'm sniffling.",
+        "category": ""
+      },
+      {
+        "word": "我姐",
+        "translation": "to love",
+        "pronunciation": "",
+        "example": "我姐你究的",
+        "example_translation": "They are in love.",
+        "category": ""
+      },
+      {
+        "word": "辙果",
+        "translation": "to eat",
+        "pronunciation": "",
+        "example": "辙果我父和",
+        "example_translation": "I'm hungry, let's eat.",
+        "category": ""
+      },
+      {
+        "word": "的囒",
+        "translation": "every day",
+        "pronunciation": "",
+        "example": "的囒张中的",
+        "example_translation": "The daily routine.",
+        "category": ""
+      },
+      {
+        "word": "江跳",
+        "translation": "to be happy",
+        "pronunciation": "",
+        "example": "江跳的新。",
+        "example_translation": "She is joyful.",
+        "category": ""
+      },
+      {
+        "word": "我惧是",
+        "translation": "to be able to",
+        "pronunciation": "",
+        "example": "我惧是我一个",
+        "example_translation": "I'm able to understand.",
+        "category": ""
+      },
+      {
+        "word": "课心",
+        "translation": "to be grateful",
+        "pronunciation": "",
+        "example": "课心的新。",
+        "example_translation": "He is thankful.",
+        "category": ""
+      },
+      {
+        "word": "这扌",
+        "translation": "family member",
+        "pronunciation": "",
+        "example": "张扌我的一个",
+        "example_translation": "My brother is a great sibling.",
+        "category": ""
+      },
+      {
+        "word": "李新",
+        "translation": "the future",
+        "pronunciation": "",
+        "example": "李新我部医的",
+        "example_translation": "The future plans.",
+        "category": ""
+      },
+      {
+        "word": "本天",
+        "translation": "to work",
+        "pronunciation": "",
+        "example": "本天我是户球",
+        "example_translation": "I'm working on my project.",
+        "category": ""
+      }
+    ]
+  },
+  "Portuguese": {
+    "5": [
+      {
+        "word": "deslumbrado",
+        "translation": "dazzled",
+        "pronunciation": "deh-zloo-MAH-doo",
+        "example": "Estou deslumbrado com a beleza da cidade!",
+        "example_translation": "I'm dazzled by the city's beauty!",
+        "category": "adjectives"
+      },
+      {
+        "word": "saudade",
+        "translation": "nostalgia",
+        "pronunciation": "sah-OO-dah-dzheh",
+        "example": "Sinto saudade do meu país natal.",
+        "example_translation": "I feel nostalgic about my native country.",
+        "category": "emotions"
+      },
+      {
+        "word": "infelizmente",
+        "translation": "unfortunately",
+        "pronunciation": "in-feh-LIH-zmehn-tah",
+        "example": "Infelizmente, não posso ir à viagem.",
+        "example_translation": "Unfortunately, I won't be able to go on the trip.",
+        "category": "conjunctions"
+      },
+      {
+        "word": "independência",
+        "translation": "independence",
+        "pronunciation": "in-dee-pen-DEN-see-ah",
+        "example": "A independência política do Brasil é um direito fundamental.",
+        "example_translation": "Independence is a fundamental right of Brazilian politics.",
+        "category": "politics"
+      },
+      {
+        "word": "saudável",
+        "translation": "healthy",
+        "pronunciation": "sah-oo-GON-deh",
+        "example": "A comida saudável me ajuda a manter a forma!",
+        "example_translation": "Healthy food helps me stay fit!",
+        "category": "adjectives"
+      },
+      {
+        "word": "conhecimento",
+        "translation": "knowledge",
+        "pronunciation": "koh-neh-SHEE-toh",
+        "example": "O conhecimento é a chave para o sucesso.",
+        "example_translation": "Knowledge is the key to success.",
+        "category": "nouns"
+      },
+      {
+        "word": "empatia",
+        "translation": "empathy",
+        "pronunciation": "ehm-pah-TEE-ah",
+        "example": "É importante ter empatia com as pessoas.",
+        "example_translation": "It's essential to have empathy for people.",
+        "category": "emotions"
+      },
+      {
+        "word": "cultura",
+        "translation": "culture",
+        "pronunciation": "kool-TUH-rah",
+        "example": "A cultura brasileira é rica e diversa!",
+        "example_translation": "Brazilian culture is rich and diverse!",
+        "category": "nouns"
+      },
+      {
+        "word": "relógio",
+        "translation": "watch",
+        "pronunciation": "reh-LOH-gee",
+        "example": "Vou verificar o relógio antes de sair.",
+        "example_translation": "I'll check the watch before I leave.",
+        "category": "objects"
+      },
+      {
+        "word": "familiaridade",
+        "translation": "friendliness",
+        "pronunciation": "fee-mah-REE-lid-dah",
+        "example": "A hospitalidade é fundamental para a familiaridade.",
+        "example_translation": "Hospitality is essential for building familiarity.",
+        "category": "nouns"
+      },
+      {
+        "word": "exigência",
+        "translation": "requirement",
+        "pronunciation": "esh-ee-GEN-seh",
+        "example": "A exigência de segurança é fundamental.",
+        "example_translation": "Security requirement is essential.",
+        "category": "nouns"
+      },
+      {
+        "word": "influência",
+        "translation": "influence",
+        "pronunciation": "in-floo-SEHN-sah",
+        "example": "A influência da mídia é importante.",
+        "example_translation": "The influence of the media is important.",
+        "category": "nouns"
+      },
+      {
+        "word": "sensibilidade",
+        "translation": "sensitivity",
+        "pronunciation": "sen-see-BEE-leh-ndee-ah",
+        "example": "É importante ter sensibilidade em nossas conversas.",
+        "example_translation": "It's essential to have sensitivity in our conversations.",
+        "category": "nouns"
+      },
+      {
+        "word": "respeito",
+        "translation": "respect",
+        "pronunciation": "reh-SPEH-toh",
+        "example": "O respeito é fundamental para qualquer relacionamento.",
+        "example_translation": "Respect is fundamental for any relationship.",
+        "category": "nouns"
+      }
+    ]
+  }
+}

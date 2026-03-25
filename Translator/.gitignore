@@ -2,3 +2,7 @@ build/
 .env
 *.wav
 web/venv/
+web/__pycache__/
+**/*.pyc
+.DS_Store
+*.json,last

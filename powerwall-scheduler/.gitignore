@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.pem
+!tesla-keys/com.tesla.3p.public-key.pem
+
+# App data (logs, schedules, Tesla tokens)
+powerwall-scheduler/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS junk
+.DS_Store
+*.swp

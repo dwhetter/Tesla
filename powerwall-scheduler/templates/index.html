@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Powerwall Grid Scheduler</title>
+<style>
+  :root {
+    --bg: #f5f4ef; --card: #ffffff; --ink: #1c1d1f; --muted: #6b6f76; --line: #e3e1d9;
+    --sun: #e8a317; --sun-soft: #fdf3dc; --grid: #2f6fd6; --grid-soft: #e6eefb;
+    --danger: #c0392b; --ok: #2e8b57;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #15161a; --card: #1f2126; --ink: #ecebe6; --muted: #9a9ea6; --line: #30333a;
+      --sun-soft: #3a2f16; --grid-soft: #1c2a42; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 60px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  h2 { font-size: 16px; margin: 0 0 12px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin-bottom: 16px; }
+  .banner { background: var(--sun-soft); border: 1px solid var(--sun); border-radius: 10px; padding: 10px 14px; margin-bottom: 16px; }
+  .status { display: flex; gap: 20px; align-items: center; flex-wrap: wrap; }
+  .gauge { flex: 1; min-width: 200px; }
+  .pct { font-size: 40px; font-weight: 700; line-height: 1; }
+  .bar { height: 10px; background: var(--line); border-radius: 5px; overflow: hidden; margin-top: 10px; position: relative; }
+  .bar > span { display: block; height: 100%; background: var(--ok); transition: width .5s; }
+  .bar > i { position: absolute; top: -2px; bottom: -2px; width: 2px; background: var(--danger); }
+  .pill { display: inline-block; padding: 6px 12px; border-radius: 999px; font-weight: 600; font-size: 14px; }
+  .pill.on { background: var(--grid-soft); color: var(--grid); }
+  .pill.off { background: var(--sun-soft); color: var(--sun); }
+  .pill.err { background: #f8e1de; color: var(--danger); }
+  .hint { color: var(--muted); font-size: 13px; margin-top: 8px; }
+  .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
+  button { font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    padding: 9px 14px; border-radius: 8px; cursor: pointer; }
+  button.primary { background: var(--sun); border-color: var(--sun); color: #fff; font-weight: 600; }
+  button.blue { background: var(--grid); border-color: var(--grid); color: #fff; font-weight: 600; }
+  button.small { padding: 5px 10px; font-size: 13px; }
+  button.link { border: none; background: none; color: var(--danger); padding: 5px 6px; font-size: 13px; }
+  form.inline { display: inline; }
+  .sched { display: flex; justify-content: space-between; align-items: center; gap: 12px;
+    padding: 12px 0; border-top: 1px solid var(--line); flex-wrap: wrap; }
+  .sched:first-of-type { border-top: none; }
+  .sched.paused { opacity: .55; }
+  .sched b { display: block; }
+  .muted { color: var(--muted); font-size: 13px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+  input[type=text], input[type=time] { width: 100%; font: inherit; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--bg); color: var(--ink); }
+  .days { display: flex; gap: 6px; flex-wrap: wrap; margin: 12px 0; }
+  .days label { display: flex; align-items: center; gap: 4px; margin: 0; padding: 6px 10px; border: 1px solid var(--line);
+    border-radius: 8px; color: var(--ink); cursor: pointer; font-size: 14px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  td { padding: 6px 4px; border-top: 1px solid var(--line); vertical-align: top; }
+  td:first-child { white-space: nowrap; color: var(--muted); width: 1%; padding-right: 12px; }
+  .up { list-style: none; padding: 0; margin: 0; }
+  .up li { padding: 4px 0; font-size: 14px; }
+  .tag { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 6px; margin-right: 6px; }
+  .tag.off { background: var(--sun-soft); color: var(--sun); }
+  .tag.on { background: var(--grid-soft); color: var(--grid); }
+  @media (max-width: 520px) { .grid2 { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>☀️ Powerwall Grid Scheduler</h1>
+  <p class="sub">Take the house off-grid while the sun charges the batteries, then reconnect.</p>
+
+  {% if demo %}<div class="banner"><b>Demo mode:</b> using a simulated Powerwall. Nothing real is being controlled.</div>{% endif %}
+  {% if message %}<div class="banner">{{ message }}</div>{% endif %}
+
+  <section class="card">
+    <div class="status">
+      <div class="gauge">
+        <div class="muted">Battery</div>
+        <div class="pct" id="pct">–</div>
+        <div class="bar"><span id="bar" style="width:0%"></span><i style="left: {{ min_soc }}%"></i></div>
+        <div class="hint">Red line = safety cutoff ({{ min_soc|round|int }}%). Reconnects automatically if the battery falls to it while off-grid.</div>
+      </div>
+      <div><div class="muted">Grid</div><span class="pill" id="grid">Checking…</span></div>
+    </div>
+    <div class="actions">
+      <form class="inline" method="post" action="/action/off" onsubmit="return confirm('Take the house off the grid now?')">
+        <button class="primary">Go off-grid now</button></form>
+      <form class="inline" method="post" action="/action/on" onsubmit="return confirm('Reconnect to the grid now?')">
+        <button class="blue">Reconnect to grid</button></form>
+    </div>
+    <div class="hint">Going off-grid needs at least {{ start_soc|round|int }}% battery.</div>
+  </section>
+
+  <section class="card">
+    <h2>Schedules</h2>
+    {% for s in schedules %}
+    <div class="sched {% if not s.enabled %}paused{% endif %}">
+      <div>
+        <b>{{ s.name }}{% if not s.enabled %} (paused){% endif %}</b>
+        <span class="muted">{{ s.days_label }} · off-grid {{ s.off_label }} → on-grid {{ s.on_label }}{% if s.overnight %} next day{% endif %}</span>
+      </div>
+      <div>
+        <form class="inline" method="post" action="/schedules/{{ s.id }}/toggle">
+          <button class="small">{{ 'Pause' if s.enabled else 'Resume' }}</button></form>
+        <form class="inline" method="post" action="/schedules/{{ s.id }}/delete" onsubmit="return confirm('Delete this schedule?')">
+          <button class="link">Delete</button></form>
+      </div>
+    </div>
+    {% else %}
+    <p class="muted">No schedules yet. Add one below — for example, weekdays 10:00 AM to 3:00 PM.</p>
+    {% endfor %}
+  </section>
+
+  <section class="card">
+    <h2>Add a schedule</h2>
+    <form method="post" action="/schedules">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" placeholder="Sunny hours">
+      <div class="days">
+        {% for d in days %}<label><input type="checkbox" name="{{ d }}" {% if d not in ['sat','sun'] %}checked{% endif %}> {{ day_labels[d] }}</label>{% endfor %}
+      </div>
+      <div class="grid2">
+        <div><label for="off">Go off-grid at</label><input type="time" id="off" name="off_time" value="10:00" required></div>
+        <div><label for="on">Reconnect at</label><input type="time" id="on" name="on_time" value="15:00" required></div>
+      </div>
+      <div class="actions"><button class="primary">Save schedule</button></div>
+    </form>
+  </section>
+
+  <section class="card">
+    <h2>Coming up</h2>
+    {% if upcoming %}<ul class="up">
+      {% for r in upcoming %}<li><span class="tag {{ 'off' if r.action == 'Off-grid' else 'on' }}">{{ r.action }}</span>{{ r.when }}</li>{% endfor %}
+    </ul>{% else %}<p class="muted">Nothing scheduled.</p>{% endif %}
+  </section>
+
+  <section class="card">
+    <h2>Activity</h2>
+    {% if log %}<table>{% for e in log %}<tr><td>{{ e.time }}</td><td><b>{{ e.event }}</b> {{ e.detail }}</td></tr>{% endfor %}</table>
+    {% else %}<p class="muted">No activity yet.</p>{% endif %}
+  </section>
+</main>
+<script>
+  async function refresh() {
+    const pill = document.getElementById('grid');
+    try {
+      const r = await fetch('/api/status');
+      const d = await r.json();
+      if (!d.ok) throw new Error(d.error);
+      document.getElementById('pct').textContent = d.charge.toFixed(0) + '%';
+      document.getElementById('bar').style.width = d.charge + '%';
+      const off = d.grid.startsWith('ISLANDED') || d.grid === 'TRANSITION_TO_ISLAND';
+      const labels = { CONNECTED: 'On-grid', ISLANDED: 'Off-grid', ISLANDED_READY: 'Off-grid',
+        TRANSITION_TO_GRID: 'Reconnecting…', TRANSITION_TO_ISLAND: 'Going off-grid…', WAIT_FOR_USER: 'Waiting' };
+      pill.textContent = labels[d.grid] || d.grid;
+      pill.className = 'pill ' + (off ? 'off' : 'on');
+    } catch (e) {
+      pill.textContent = "Can't reach Powerwall";
+      pill.className = 'pill err';
+      pill.title = e.message;
+    }
+  }
+  refresh();
+  setInterval(refresh, 15000);
+</script>
+</body>
+</html>
